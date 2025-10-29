@@ -150,8 +150,10 @@ Ada **DUA layer** yang perlu Anda understand:
 #### Kesimpulan:
 **Design professional business tool (Product UX) untuk approachable, friendly brand (Brand Personality).**
 
-**Reference websites:**
-- www.pakeaja.com (current landing page - lihat existing branding jika ada)
+**Note tentang Branding:**
+- Landing page (www.pakeaja.com) ada tapi masih proof of concept - belum ada branding material
+- **Anda bebas create brand identity dari scratch** (colors, typography, visual style)
+- Ikuti brand positioning guidelines di atas sebagai panduan
 
 ### 3.2 Color Direction (Suggestions, Not Requirements)
 
