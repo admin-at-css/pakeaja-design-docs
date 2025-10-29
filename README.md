@@ -152,7 +152,7 @@ Anda akan design di **Figma only** - no coding required.
 
 **Our Review Process:**
 1. Portfolio review (visual quality, B2B SaaS experience, design system work)
-2. Application scoring (lihat evaluation rubric di main repo)
+2. Application scoring
 3. Shortlist top 3-5 candidates
 4. Email invitations untuk 30-minute Google Meet interviews
 
