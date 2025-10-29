@@ -170,9 +170,10 @@ Berikut beberapa design references yang kami suka sebagai inspirasi aesthetic di
    - Apply to: Main dashboard, overview screens, data-heavy interfaces
 
 **Catatan:**
-- Gunakan references ini sebagai **inspirasi aesthetic**, bukan untuk di-copy
-- Adapt ke konteks Indonesian users dan painting contractor industry
-- Maintain balance: professional (seperti examples) tapi approachable (brand personality)
+- Kami **sangat suka** aesthetic dari references ini - feel free to closely follow the design approach
+- Adapt/adjust sesuai functional requirements kami dan konteks Indonesian users
+- Yang penting: maintain balance antara professional (seperti examples) dan approachable (brand personality)
+- Selama memenuhi functional requirements, Anda bebas mengadopsi layout, color scheme, atau visual style dari references
 
 ### 3.2 Color Direction (Suggestions, Not Requirements)
 
