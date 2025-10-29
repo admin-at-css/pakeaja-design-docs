@@ -2,7 +2,7 @@
 
 ## What is PakeAja?
 
-PakeAja is a **B2B SaaS platform** designed to help painting contractor companies manage large-scale projects more professionally and transparently. The platform provides a comprehensive dashboard for contractors and a client portal for project owners.
+PakeAja adalah **B2B SaaS platform** yang dirancang untuk membantu perusahaan kontraktor pengecatan mengelola proyek skala besar secara lebih profesional dan transparan. Platform ini menyediakan dashboard lengkap untuk kontraktor dan client portal untuk project owners.
 
 ---
 
@@ -10,20 +10,20 @@ PakeAja is a **B2B SaaS platform** designed to help painting contractor companie
 
 ### Current State: WhatsApp-Based Project Management
 
-Indonesian painting contractors (especially SMEs) currently manage multi-million rupiah projects using **WhatsApp groups**:
+Kontraktor pengecatan Indonesia (especially SMEs) saat ini mengelola proyek dengan **WhatsApp groups**:
 
 **Pain Points:**
-- 📱 **Progress photos scattered** across WA chats (hard to find, no organization)
+- 📱 **Progress photos scattered** across WA chats (susah dicari, no organization)
 - 💰 **Budget tracking in Excel** (manual, error-prone, not real-time)
 - 📄 **Invoices sent as PDF via WA** (no tracking, lost messages, unprofessional)
 - 📅 **Timeline updates verbal** (no accountability, client confusion)
-- 👥 **No transparency** for clients (have to ask PM: "Gimana progress-nya?")
-- 🔍 **No audit trail** (can't prove what was communicated when)
+- 👥 **No transparency** untuk clients (harus tanya PM: "Gimana progress-nya?")
+- 🔍 **No audit trail** (can't prove apa yang dikomunikasikan kapan)
 
 **Result:**
-- Clients feel uninformed and anxious (constantly asking for updates)
-- Contractors spend hours answering repetitive questions
-- Disputes arise ("I never said that!", "Where's the photo from last week?")
+- Clients feel uninformed dan anxious (constantly asking for updates)
+- Contractors spend jam-jam answering repetitive questions
+- Disputes muncul ("I never said that!", "Where's the photo from last week?")
 - Unprofessional image (hard to win larger contracts)
 
 ---
@@ -38,7 +38,7 @@ Indonesian painting contractors (especially SMEs) currently manage multi-million
 - **Material Management:** Track inventory, record usage, monitor supplier costs
 - **Budget Tracking:** Real-time budget vs actual spending, expense categorization
 - **Invoicing:** Generate professional invoices, link to milestones, send via platform
-- **Reporting:** Create progress reports, share with clients automatically
+- **Reporting:** Create progress reports, share dengan clients automatically
 - **Team Collaboration:** Assign roles (PM, site supervisor, finance), permission management
 
 **2. Client Portal (Read-Heavy Interface)**
@@ -58,33 +58,33 @@ Indonesian painting contractors (especially SMEs) currently manage multi-million
 
 **Company Profile:**
 - **Size:** SME (5-50 employees)
-- **Projects:** Rp 100 juta - Rp 2 miliar per project (commercial, residential, industrial)
+- **Projects:** Commercial, residential, industrial painting projects
 - **Examples:** Office building repainting, apartment complex painting, mall renovations
 - **Challenges:** Managing 3-10 concurrent projects, multiple clients, 10-30 workers per project
 
 **User Demographics:**
-- **Age:** 35-55 years old (established businesses)
-- **Tech Savvy:** Low-to-medium (use WhatsApp, Excel, but not complex software)
-- **Education:** High school to bachelor's degree (practical experience > formal education)
+- **Age:** 35-55 tahun (established businesses)
+- **Tech Savvy:** Low-to-medium (use WhatsApp, Excel, tapi not complex software)
+- **Education:** High school sampai bachelor's degree (practical experience > formal education)
 - **Language:** Bahasa Indonesia (some English for technical terms)
 
 **User Personas:**
 
-See [USER_PERSONAS.md](USER_PERSONAS.md) for detailed personas:
-- **Budi** (Project Manager, 42 years) - Heavy platform user, manages daily operations
-- **Siti** (Site Supervisor, 38 years) - Mobile user, uploads progress photos from field
-- **Andi** (Finance Staff, 35 years) - Handles invoicing, budget tracking, payment management
-- **Pak Hasan** (Project Owner, 50 years) - Client portal user, monitors project progress
-- **Ibu Linda** (Finance Approver, 45 years) - Reviews and approves invoices, checks budgets
-- **David** (Property Manager, 40 years) - Oversees multiple projects, needs consolidated reporting
+Lihat [USER_PERSONAS.md](USER_PERSONAS.md) untuk detailed personas:
+- **Budi** (Project Manager, 42 tahun) - Heavy platform user, manages daily operations
+- **Siti** (Site Supervisor, 38 tahun) - Mobile user, uploads progress photos from field
+- **Andi** (Finance Staff, 35 tahun) - Handles invoicing, budget tracking, payment management
+- **Pak Hasan** (Project Owner, 50 tahun) - Client portal user, monitors project progress
+- **Ibu Linda** (Finance Approver, 45 tahun) - Reviews dan approves invoices, checks budgets
+- **David** (Property Manager, 40 tahun) - Oversees multiple projects, needs consolidated reporting
 
 ---
 
 ## Why Understanding Users Matters for Design
 
 ### Contractor Side (Complex, Data-Heavy)
-Your designs must help contractors:
-- ✅ **Work faster** - Save time vs WhatsApp/Excel (if tool is slower, they won't adopt)
+Design Anda harus help contractors:
+- ✅ **Work faster** - Save time vs WhatsApp/Excel (jika tool lebih lambat, they won't adopt)
 - ✅ **Reduce errors** - Clear forms, validation, prevent budget mistakes
 - ✅ **Look professional** - Contractors show this to clients to win contracts
 - ✅ **Handle complexity** - Manage 10+ concurrent projects, 100s of photos, detailed budgets
@@ -98,8 +98,8 @@ Your designs must help contractors:
 ---
 
 ### Client Side (Simple, Transparency-Focused)
-Your designs must help clients:
-- ✅ **Feel informed** - See progress without calling PM every day
+Design Anda harus help clients:
+- ✅ **Feel informed** - See progress tanpa calling PM every day
 - ✅ **Build trust** - Transparent budget tracking, photo proof of work
 - ✅ **Take action** - Approve milestones, review invoices, communicate easily
 - ✅ **Reduce anxiety** - Clear status, timeline visibility, no surprises
@@ -114,41 +114,41 @@ Your designs must help clients:
 
 ## Design Success Criteria
 
-**Your design is successful if:**
+**Design Anda successful jika:**
 
 1. **Contractors adopt it** - It's faster than WhatsApp (they switch voluntarily)
 2. **Clients use the portal** - Reduces "Gimana progress-nya?" phone calls by 80%+
-3. **Non-tech users understand it** - 50+ year old contractors can navigate without training
-4. **Platform looks professional** - Contractors confidently show it to clients to win larger contracts
-5. **Design system scales** - Supports Phase 2 features (CRM, Inventory, Mobile App) without redesign
+3. **Non-tech users understand it** - 50+ tahun contractors can navigate tanpa training
+4. **Platform looks professional** - Contractors confidently show it to clients untuk win larger contracts
+5. **Design system scales** - Supports Phase 2 features (CRM, Inventory, Mobile App) tanpa redesign
 
-**The wrong design = users abandon platform and return to WhatsApp.**
+**The wrong design = users abandon platform dan return to WhatsApp.**
 
 ---
 
 ## Questions Designers Often Have
 
-### Q: Why two-sided platform instead of one dashboard?
-**A:** Contractors and clients have fundamentally different needs:
+### Q: Mengapa two-sided platform instead of one dashboard?
+**A:** Contractors dan clients punya fundamentally different needs:
 - **Contractors** need to INPUT data (photos, budgets, invoices) - complex, power-user UI
 - **Clients** need to VIEW data (progress, spending) - simple, read-only UI
-- If we give clients access to contractor dashboard, it's overwhelming and confusing
+- Jika kita give clients access ke contractor dashboard, it's overwhelming dan confusing
 
-### Q: Why focus on painting contractors specifically?
-**A:** Painting projects have unique characteristics:
+### Q: Mengapa focus on painting contractors specifically?
+**A:** Painting projects punya unique characteristics:
 - Heavy photo documentation (before/after, progress tracking)
 - Material-intensive (paint, primer, equipment tracking)
 - Milestone-based payments (per floor completed, per building section)
 - Generic PM tools don't fit this workflow
 
-### Q: What's the biggest design challenge?
-**A:** Balancing simplicity for non-tech users with power features for daily operations. Contractors need efficiency (they're busy), but also clarity (they're not tech-savvy). Avoid making it "dumbed down" (frustrating for power users) or overly complex (intimidating for beginners).
+### Q: Apa biggest design challenge-nya?
+**A:** Balancing simplicity untuk non-tech users dengan power features untuk daily operations. Contractors need efficiency (they're busy), tapi juga clarity (they're not tech-savvy). Avoid making it "dumbed down" (frustrating for power users) atau overly complex (intimidating for beginners).
 
 ---
 
 ## Next Steps for Designers
 
-After understanding the problem, solution, and users:
+Setelah understanding the problem, solution, dan users:
 
 1. **Review detailed personas** → [USER_PERSONAS.md](USER_PERSONAS.md)
 2. **Understand information architecture** → [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md)

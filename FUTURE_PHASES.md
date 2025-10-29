@@ -1,21 +1,21 @@
 # Future Phases - Long-Term Design Collaboration
 
-This document outlines **future design work** beyond the MVP (Phase 1). If you deliver excellent results on the initial project, there's significant opportunity for ongoing collaboration.
+Dokumen ini outlines **future design work** beyond the MVP (Phase 1). Jika Anda deliver excellent results on the initial project, there's significant opportunity untuk ongoing collaboration.
 
 ---
 
 ## Important: This is NOT a One-Off Project
 
-**Think of Phase 1 as an audition** for a long-term design partnership.
+**Think of Phase 1 as an audition** untuk long-term design partnership.
 
 We're not looking for:
-- ❌ A designer who delivers MVP and disappears
-- ❌ Someone who only does product design (no flexibility)
+- ❌ A designer yang delivers MVP dan disappears
+- ❌ Someone yang only does product design (no flexibility)
 - ❌ Transactional relationship (just exchange money for designs)
 
 We're looking for:
-- ✅ **Design partner** who understands PakeAja vision
-- ✅ **Reliable collaborator** for ongoing product evolution
+- ✅ **Design partner** yang understands PakeAja vision
+- ✅ **Reliable collaborator** untuk ongoing product evolution
 - ✅ **Versatile designer** (product UI, marketing, icons, illustrations)
 - ✅ **Long-term relationship** (grow as product scales)
 
@@ -27,7 +27,7 @@ We're looking for:
 
 **Problem:** Contractors lose track of leads, quotations, follow-ups.
 
-**Solution:** Built-in CRM to manage sales pipeline.
+**Solution:** Built-in CRM untuk manage sales pipeline.
 
 **Design Scope:**
 - Lead tracking dashboard (pipeline view, kanban-style)
@@ -42,9 +42,9 @@ We're looking for:
 
 ### 2B. Inventory Management
 
-**Problem:** Contractors don't track paint stock, leading to last-minute purchases and budget overruns.
+**Problem:** Contractors don't track paint stock, leading to last-minute purchases dan budget overruns.
 
-**Solution:** Inventory tracking integrated with projects.
+**Solution:** Inventory tracking integrated dengan projects.
 
 **Design Scope:**
 - Inventory dashboard (stock levels, low stock alerts)
@@ -61,7 +61,7 @@ We're looking for:
 
 **Problem:** Contractors manage supplier relationships via WhatsApp (no centralized vendor management).
 
-**Solution:** Supplier portal for vendor management.
+**Solution:** Supplier portal untuk vendor management.
 
 **Design Scope:**
 - Supplier directory (contact info, product catalog, pricing)
@@ -76,9 +76,9 @@ We're looking for:
 
 ### 2D. Mobile App (Native iOS/Android)
 
-**Problem:** Site supervisors and workers need mobile access (desktop is not practical on-site).
+**Problem:** Site supervisors dan workers need mobile access (desktop is not practical on-site).
 
-**Solution:** Mobile app for field workers.
+**Solution:** Mobile app untuk field workers.
 
 **Design Scope:**
 - Mobile-first redesign of key contractor flows:
@@ -86,25 +86,25 @@ We're looking for:
   - Progress updates (mark tasks complete on-site)
   - Material usage logging (quick entry from field)
   - Timeline view (mobile-optimized Gantt chart)
-  - Notifications (real-time alerts for workers)
+  - Notifications (real-time alerts untuk workers)
 
 **Estimated Screens:** 10-12 screens (mobile-specific)
 
-**Note:** This builds on Phase 1 design system but requires mobile-native patterns (bottom navigation, swipe gestures, camera integration).
+**Note:** This builds on Phase 1 design system tapi requires mobile-native patterns (bottom navigation, swipe gestures, camera integration).
 
 ---
 
 ### Phase 2 Summary
 
-**If all Phase 2 modules are designed:**
-- **Total Screens:** 30-40 additional screens across CRM, Inventory, Supplier Portal, and Mobile App
-- Features roll out over 6-12 months as product grows
+**Jika all Phase 2 modules are designed:**
+- **Total Screens:** 30-40 additional screens across CRM, Inventory, Supplier Portal, dan Mobile App
+- Features roll out over 6-12 bulan as product grows
 
 ---
 
 ## Phase 3: Marketing & Brand Design
 
-As PakeAja grows, we'll need **marketing materials** to attract customers.
+As PakeAja grows, kami akan need **marketing materials** untuk attract customers.
 
 ### 3A. Landing Page Redesign
 
@@ -143,7 +143,7 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 
 **Design Scope:**
 - Social media templates (Instagram posts, LinkedIn carousels)
-- Brand guidelines (logo usage, color palette, typography for marketing)
+- Brand guidelines (logo usage, color palette, typography untuk marketing)
 - Ad creatives (Facebook/Instagram ads, Google Display ads)
 
 **Estimated Deliverables:** 10-15 templates
@@ -152,9 +152,9 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 
 ### Phase 3 Summary
 
-**If all marketing materials are designed:**
-- **Total Deliverables:** 20-30 templates/pages across landing page, sales materials, and social media
-- Marketing work happens as needed for campaigns and growth initiatives
+**Jika all marketing materials are designed:**
+- **Total Deliverables:** 20-30 templates/pages across landing page, sales materials, dan social media
+- Marketing work happens as needed untuk campaigns dan growth initiatives
 
 ---
 
@@ -165,7 +165,7 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 **Problem:** Phase 1 might use icon libraries (Heroicons, Lucide, Feather). As product matures, custom icons create unique identity.
 
 **Design Scope:**
-- Custom icon set for PakeAja brand
+- Custom icon set untuk PakeAja brand
 - Categories: Navigation, actions, status, file types, construction tools, financial
 - Consistent style (line icons, scalable, multi-size)
 - Figma library + SVG exports
@@ -194,7 +194,7 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 
 **Estimated Illustrations:** 20-30 illustrations
 
-**Note:** Style should match brand (professional but approachable, not playful).
+**Note:** Style should match brand (professional tapi approachable, not playful).
 
 ---
 
@@ -203,9 +203,9 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 **Problem:** As product adds features, design system needs new components.
 
 **Design Scope (ongoing maintenance):**
-- New components for Phase 2 features (CRM kanban, inventory tables, supplier ratings)
+- New components untuk Phase 2 features (CRM kanban, inventory tables, supplier ratings)
 - Component variations (new button styles, card layouts)
-- Dark mode (if needed in future)
+- Dark mode (jika needed in future)
 - Accessibility improvements (WCAG compliance, screen reader support)
 
 **Ongoing:** Component library evolves as product grows
@@ -214,15 +214,15 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 
 ### Phase 4 Summary
 
-**If all icons, illustrations, and UI kit expansions are designed:**
+**Jika all icons, illustrations, dan UI kit expansions are designed:**
 - **Total Deliverables:** 120-180 icons/illustrations + ongoing component updates
-- Work happens as product needs mature and brand identity solidifies
+- Work happens as product needs mature dan brand identity solidifies
 
 ---
 
 ## Potential Monthly Retainer Model
 
-If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing design support.
+Jika Phase 1 goes well, kami may transition to a **monthly retainer** untuk ongoing design support.
 
 ### Retainer Tiers (Scope of Work):
 
@@ -239,7 +239,7 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 **Dedicated Designer**
 - All design needs (product, marketing, icons, illustrations)
-- Priority support (same-day turnaround for urgent requests)
+- Priority support (same-day turnaround untuk urgent requests)
 - Strategic design input (roadmap planning, UX audits)
 - Best for: Scaling phase, rapid feature rollout
 
@@ -262,12 +262,12 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 ### Work Style:
 - ✅ Reliable (meet deadlines, communicate proactively)
 - ✅ Collaborative (receptive to feedback, iterate thoughtfully)
-- ✅ Strategic thinker (not just execute, but suggest improvements)
+- ✅ Strategic thinker (not just execute, tapi suggest improvements)
 - ✅ Long-term mindset (care about product success, not just get paid and leave)
 
 ### Cultural Fit:
 - ✅ Understand Indonesian market (not just copy Silicon Valley patterns)
-- ✅ Professional but approachable (match PakeAja brand personality)
+- ✅ Professional tapi approachable (match PakeAja brand personality)
 - ✅ Growth mindset (willing to learn construction industry, B2B SaaS best practices)
 
 ---
@@ -275,19 +275,19 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 ## How to Show You're the Right Partner
 
 ### During Phase 1:
-1. **Deliver on time** (or communicate early if delays)
+1. **Deliver on time** (atau communicate early jika delays)
 2. **Ask smart questions** (show you understand business context, not just designs)
 3. **Go beyond brief** (suggest improvements, catch edge cases)
 4. **Organize beautifully** (Figma files are clean, dev-friendly)
 5. **Iterate gracefully** (handle feedback positively, improve designs)
 
 ### During Interview:
-- Express interest in **long-term collaboration** (not just one project)
+- Express interest dalam **long-term collaboration** (not just one project)
 - Show **curiosity about PakeAja** (ask about target users, vision, challenges)
 - Highlight **versatile skills** (product + marketing + icons/illustrations)
 - Demonstrate **reliability** (share examples of multi-phase projects you've done)
 
-**If you deliver exceptional work on Phase 1 → you become our go-to designer for everything PakeAja.**
+**Jika Anda deliver exceptional work on Phase 1 → you become our go-to designer untuk everything PakeAja.**
 
 ---
 
@@ -305,7 +305,7 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 **Month 7-12 (Post-Launch):**
 - Medium collaboration (Phase 2 features, marketing materials)
-- Project-based or start monthly retainer
+- Project-based atau start monthly retainer
 
 **Month 13-24 (Scaling):**
 - Active retainer (ongoing design support)
@@ -317,22 +317,22 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 ## Questions Designers Often Ask
 
-### Q: Is Phase 2 guaranteed if I do well on Phase 1?
-**A:** Not guaranteed (depends on product success), but **highly likely** if:
+### Q: Is Phase 2 guaranteed jika I do well on Phase 1?
+**A:** Not guaranteed (depends on product success), tapi **highly likely** jika:
 - Phase 1 quality is excellent
-- Product gains traction with customers
-- We secure funding or reach profitability
+- Product gains traction dengan customers
+- We secure funding atau reach profitability
 
-**Probability:** 70-80% if Phase 1 goes well.
+**Probability:** 70-80% jika Phase 1 goes well.
 
 ---
 
-### Q: What if I want to do Phase 1 but not commit to long-term?
-**A:** That's okay! We understand freelancers have multiple clients and projects.
+### Q: What if I want to do Phase 1 tapi not commit to long-term?
+**A:** That's okay! Kami understand freelancers have multiple clients dan projects.
 
 **However:**
-- We'll prioritize candidates who express interest in long-term collaboration
-- If you deliver great work but aren't available for Phase 2, we'll find another designer (not ideal, but acceptable)
+- Kami akan prioritize candidates yang express interest dalam long-term collaboration
+- Jika Anda deliver great work tapi aren't available untuk Phase 2, kami akan find another designer (not ideal, tapi acceptable)
 
 **Preference:** Long-term partner > One-off contractor
 
@@ -341,20 +341,20 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 ### Q: Can I work on other projects while doing PakeAja retainer?
 **A:** Yes, unless you're on dedicated designer tier (full-time equivalent).
 
-**Light and active retainers** are part-time commitments. You can have other clients.
+**Light dan active retainers** are part-time commitments. Anda bisa have other clients.
 
-**We just need:**
+**Kami just need:**
 - Predictable availability (e.g., "I work on PakeAja Mondays-Wednesdays")
 - Responsive communication (reply within 24 hours)
-- On-time delivery (if we agree on timeline, meet it)
+- On-time delivery (jika we agree on timeline, meet it)
 
 ---
 
 ## Final Thoughts
 
-**Phase 1 is important, but it's just the beginning.**
+**Phase 1 is important, tapi it's just the beginning.**
 
-We're building PakeAja to be the leading platform for Indonesian contractors over the next several years. The design partner who helps us get there will:
+Kami building PakeAja to be the leading platform untuk Indonesian contractors over the next several years. The design partner yang helps us get there will:
 
 - ✅ Build a **portfolio of real impact** (used by many businesses)
 - ✅ Earn **consistent income** (stable work over multiple years)
@@ -363,11 +363,11 @@ We're building PakeAja to be the leading platform for Indonesian contractors ove
 
 **This is bigger than one project.**
 
-**If you're excited about this vision, we want to work with you.**
+**Jika you're excited about this vision, kami want to work with you.**
 
 ---
 
-**Ready to apply?** See [README.md](README.md) for next steps.
+**Ready to apply?** See [README.md](README.md) untuk next steps.
 
 ---
 

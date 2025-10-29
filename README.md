@@ -1,34 +1,34 @@
 # PakeAja - Design Documentation
 
-**Comprehensive documentation for UI/UX Designer candidates applying to design PakeAja's B2B SaaS platform.**
+**Dokumentasi lengkap untuk kandidat UI/UX Designer yang apply untuk design platform B2B SaaS PakeAja.**
 
 ---
 
 ## Project Overview
 
-PakeAja is a **B2B SaaS platform** for Indonesian painting contractors managing large-scale projects (Rp 100 juta - Rp 2 miliar). The platform helps contractors transition from WhatsApp-based project management to professional, transparent digital workflows.
+PakeAja adalah **B2B SaaS platform** untuk perusahaan kontraktor pengecatan Indonesia yang mengelola proyek skala besar. Platform ini membantu kontraktor bertransisi dari manajemen proyek berbasis WhatsApp ke digital workflows yang profesional dan transparan.
 
 **Platform Type:** Two-sided B2B SaaS (Contractor Dashboard + Client Portal)
 
 **Design Scope:** 23 screens, complete design system, interactive prototypes
 
-**Tech Stack:** React/Next.js frontend (for implementation, NOT designer's concern)
+**Tech Stack:** React/Next.js frontend (untuk implementasi, BUKAN concern designer)
 
-**Timeline:** 6-8 weeks for full project
+**Timeline:** 6-8 minggu untuk full project
 
 ---
 
 ## What's Included in This Repository
 
-This repository contains **all design requirements and context** you need to understand the project scope:
+Repository ini berisi **semua design requirements dan context** yang Anda butuhkan untuk memahami project scope:
 
 - ✅ **Product Requirements Document (PRD)** - Complete functional requirements
-- ✅ **User Personas** - 6 detailed personas (contractors and project owners)
+- ✅ **User Personas** - 6 detailed personas (contractors dan project owners)
 - ✅ **Information Architecture** - Navigation structure, sitemap, URL patterns
 - ✅ **User Flows** - 16 detailed user journeys
 - ✅ **Design Brief** - Design guidelines, aesthetic direction, creative freedom
-- ✅ **Scope & Deliverables** - Breakdown of 23 screens, 4 design phases
-- ✅ **Design Complexity Analysis** - Why this is NOT a simple landing page
+- ✅ **Scope & Deliverables** - Breakdown dari 23 screens, 4 design phases
+- ✅ **Design Complexity Analysis** - Mengapa ini BUKAN simple landing page
 - ✅ **Project Overview** - Problem statement, solution, target users
 - ✅ **Future Phases** - Long-term collaboration opportunities
 
@@ -36,26 +36,26 @@ This repository contains **all design requirements and context** you need to und
 
 ## What's NOT Included
 
-This is **design documentation**, not implementation details. The following are **excluded**:
+Ini adalah **design documentation**, bukan implementation details. Yang berikut ini **excluded**:
 
 - ❌ Development environment setup (React, Next.js, Supabase)
-- ❌ API credentials or database access
+- ❌ API credentials atau database access
 - ❌ Backend implementation details
-- ❌ Existing branding assets (you have full creative freedom)
-- ❌ User testing results (we'll do this post-design)
+- ❌ Existing branding assets (Anda punya full creative freedom)
+- ❌ User testing results (kami akan lakukan ini post-design)
 
-You'll design in **Figma only** - no coding required.
+Anda akan design di **Figma only** - no coding required.
 
 ---
 
 ## Documentation to Review
 
-### 📋 Required Reading (for accurate proposal)
+### 📋 Required Reading (untuk proposal yang akurat)
 
-**Start here to understand full scope:**
+**Start di sini untuk understand full scope:**
 
 1. **[PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)** *(15-20 min read)*
-   Business context, problem statement, target market, go-to-market strategy
+   Problem statement, solution, target users
 
 2. **[PRD.md](PRD.md)** *(30-40 min read)*
    Complete product requirements (14 sections), functional specifications
@@ -64,10 +64,10 @@ You'll design in **Figma only** - no coding required.
    6 detailed personas: Budi (PM), Siti (Supervisor), Andi (Finance), Pak Hasan (Client), Ibu Linda (Finance Approver), David (Property Manager)
 
 4. **[INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md)** *(20-25 min read)*
-   Complete sitemap, navigation structure, URL patterns for 23 screens
+   Complete sitemap, navigation structure, URL patterns untuk 23 screens
 
 5. **[USER_FLOWS.md](USER_FLOWS.md)** *(25-30 min read)*
-   16 detailed user flows covering contractor and client journeys
+   16 detailed user flows yang cover contractor dan client journeys
 
 6. **[DESIGN_BRIEF.md](DESIGN_BRIEF.md)** *(20-25 min read)*
    Design guidelines, aesthetic references, creative freedom, do's & don'ts
@@ -76,33 +76,33 @@ You'll design in **Figma only** - no coding required.
    Deliverables breakdown: wireframes, mockups, design system, prototypes
 
 8. **[DESIGN_COMPLEXITY.md](DESIGN_COMPLEXITY.md)** *(20-25 min read)*
-   8 complexity factors, why this is NOT a simple landing page
+   8 complexity factors, mengapa ini BUKAN simple landing page
 
-**Total Review Time:** 2-3 hours
+**Total Review Time:** 2-3 jam
 
 ---
 
-### 📘 Optional Reading (helpful but not required)
+### 📘 Optional Reading (helpful tapi tidak required)
 
-**For deeper context:**
+**Untuk deeper context:**
 
-- **[DATABASE_SCHEMA.md](DATABASE_SCHEMA.md)** - Technical reference, understand data structure (optional for designers)
+- **[DATABASE_SCHEMA.md](DATABASE_SCHEMA.md)** - Technical reference, understand data structure (optional untuk designers)
 - **[FUTURE_PHASES.md](FUTURE_PHASES.md)** - Phase 2 features, long-term collaboration opportunities
 
-**Review these if:**
-- You want to understand technical architecture (database schema)
-- You're interested in long-term partnership (future phases)
+**Review ini jika:**
+- Anda ingin understand technical architecture (database schema)
+- Anda tertarik dengan long-term partnership (future phases)
 
 ---
 
 ## Application Workflow
 
-### Step 1: Review Documentation (2-3 hours)
+### Step 1: Review Documentation (2-3 jam)
 
-**DO NOT skip this step.** Accurate proposals require understanding full scope.
+**JANGAN skip step ini.** Proposal yang akurat membutuhkan understanding full scope.
 
 **Recommended reading order:**
-1. PROJECT_OVERVIEW.md (understand the problem and solution)
+1. PROJECT_OVERVIEW.md (understand the problem dan solution)
 2. PRD.md (understand product requirements)
 3. USER_PERSONAS.md (understand your users)
 4. INFORMATION_ARCHITECTURE.md (understand navigation)
@@ -111,33 +111,33 @@ You'll design in **Figma only** - no coding required.
 7. SCOPE.md (understand deliverables)
 8. DESIGN_COMPLEXITY.md (understand complexity)
 
-**After reading, you should know:**
-- ✅ What problem PakeAja solves (WhatsApp → professional platform)
-- ✅ Who the users are (contractors, project owners, their pain points)
-- ✅ What screens need to be designed (23 screens: 15 contractor + 8 client)
-- ✅ What deliverables are expected (wireframes, mockups, design system, prototypes)
-- ✅ Why this is complex (2-sided platform, data-heavy dashboards, design system from scratch)
-- ✅ How to estimate your effort (scope breakdown by deliverable)
+**Setelah reading, Anda should know:**
+- ✅ Apa problem yang PakeAja solve (WhatsApp → professional platform)
+- ✅ Siapa users-nya (contractors, project owners, pain points mereka)
+- ✅ Screens apa yang perlu di-design (23 screens: 15 contractor + 8 client)
+- ✅ Deliverables apa yang expected (wireframes, mockups, design system, prototypes)
+- ✅ Mengapa ini complex (2-sided platform, data-heavy dashboards, design system from scratch)
+- ✅ Cara estimate effort Anda (scope breakdown by deliverable)
 
 ---
 
-### Step 2: Submit Application (15-20 minutes)
+### Step 2: Submit Application (15-20 menit)
 
 **Application Form:** [GOOGLE FORM LINK PROVIDED IN JOB POSTING]
 
-**What to prepare:**
+**Yang perlu Anda prepare:**
 - ✅ Portfolio link (Behance, Dribbble, personal website, Google Drive)
-- ✅ Brief introduction & UI/UX experience (years, specializations)
+- ✅ Brief introduction & UI/UX experience (tahun, specializations)
 - ✅ Timeline estimate (start date, weekly availability, estimated completion)
-- ✅ Rate/pricing information (your standard rates for design work)
-- ✅ Design approach (how would you approach design system creation?)
-- ✅ Case study (1 project you're most proud of, explain your process)
+- ✅ Rate/pricing information (standard rates Anda untuk design work)
+- ✅ Design approach (bagaimana Anda approach design system creation?)
+- ✅ Case study (1 project yang paling Anda proud of, explain your process)
 
 **Pro Tips:**
-- Be honest about experience level (honesty > overpromising)
-- Mention if you've designed B2B SaaS or dashboards before
-- Express interest in long-term collaboration (not just one-off project)
-- Review all documentation before applying for informed proposal
+- Jujur tentang experience level Anda (honesty > overpromising)
+- Mention jika Anda pernah design B2B SaaS atau dashboards
+- Express interest untuk long-term collaboration (bukan hanya one-off project)
+- Review semua documentation sebelum apply untuk informed proposal
 
 ---
 
@@ -145,20 +145,20 @@ You'll design in **Figma only** - no coding required.
 
 **Our Review Process:**
 1. Portfolio review (visual quality, B2B SaaS experience, design system work)
-2. Application scoring (see evaluation rubric in main repo)
+2. Application scoring (lihat evaluation rubric di main repo)
 3. Shortlist top 3-5 candidates
-4. Email invitations for 30-minute Google Meet interviews
+4. Email invitations untuk 30-minute Google Meet interviews
 
 **Timeline:**
-- Applications reviewed within 2-3 business days
-- Interviews scheduled within 1-2 weeks
-- Final decision within 2-3 weeks
-- Contract & kickoff within 3-4 weeks
+- Applications di-review dalam 2-3 business days
+- Interviews scheduled dalam 1-2 minggu
+- Final decision dalam 2-3 minggu
+- Contract & kickoff dalam 3-4 minggu
 
-**If shortlisted, interview will cover:**
-- Portfolio deep-dive (explain your design process for specific projects)
+**Jika shortlisted, interview akan cover:**
+- Portfolio deep-dive (explain your design process untuk specific projects)
 - Design direction discussion (show competitor screenshots, get your take)
-- Project-specific questions (how would you design for non-tech-savvy Indonesian contractors?)
+- Project-specific questions (bagaimana Anda design untuk non-tech-savvy Indonesian contractors?)
 - Timeline & availability confirmation
 - Long-term collaboration interest (Phase 2 features, marketing materials, ongoing work)
 
@@ -169,24 +169,24 @@ You'll design in **Figma only** - no coding required.
 ### Key Facts About This Project:
 
 **Complexity Level:** ⭐⭐⭐⭐ (4/5 - High Complexity)
-- NOT a landing page or simple marketing site
-- B2B SaaS dashboard with data-heavy interfaces
+- BUKAN landing page atau simple marketing site
+- B2B SaaS dashboard dengan data-heavy interfaces
 - Two-sided platform (contractor dashboard + client portal)
 - Complete design system from scratch (no existing brand guidelines)
-- Mobile-responsive across all 23 screens
+- Mobile-responsive across semua 23 screens
 
-**User Base:** Non-tech-savvy Indonesian SME contractors (40-60 years old)
-- Design must be simple, intuitive, approachable
-- Bahasa Indonesia UI/UX conventions required
-- Cannot assume users are familiar with complex software
+**User Base:** Non-tech-savvy Indonesian SME contractors (40-60 tahun)
+- Design harus simple, intuitive, approachable
+- Indonesian UI/UX conventions required
+- Cannot assume users familiar dengan complex software
 
-**Design Deliverables:** 4 phases (all required)
-1. Low-fidelity wireframes (all 23 screens)
+**Design Deliverables:** 4 phases (semua required)
+1. Low-fidelity wireframes (semua 23 screens)
 2. High-fidelity mockups (consistent visual design)
 3. Complete design system (component library, design tokens, style guide)
 4. Interactive prototypes (8-10 key user flows)
 
-**Timeline:** 6-8 weeks full-time / 10-15 weeks part-time
+**Timeline:** 6-8 minggu full-time / 10-15 minggu part-time
 
 **Project Options:**
 - Option A: Project 1 only (Contractor Dashboard, 15 screens)
@@ -197,9 +197,9 @@ You'll design in **Figma only** - no coding required.
 
 ## Long-Term Collaboration Opportunity
 
-**This is NOT a one-off project.**
+**Ini BUKAN one-off project.**
 
-We're looking for a **design partner** for PakeAja's long-term journey. If you deliver excellent results on MVP:
+Kami looking for **design partner** untuk PakeAja's long-term journey. Jika Anda deliver excellent results di MVP:
 
 ### Future Opportunities:
 - **Phase 2 Features:** CRM, Inventory, Supplier Portal, Mobile App
@@ -207,53 +207,53 @@ We're looking for a **design partner** for PakeAja's long-term journey. If you d
 - **Icons & Illustrations:** Custom icon set, empty states, onboarding
 - **Monthly Retainer:** Ongoing design support as product grows
 
-**Think of MVP as an audition** for long-term partnership. See **[FUTURE_PHASES.md](FUTURE_PHASES.md)** for detailed scope of future work.
+**Think of MVP as an audition** untuk long-term partnership. Lihat **[FUTURE_PHASES.md](FUTURE_PHASES.md)** untuk detailed scope of future work.
 
 ---
 
 ## Common Questions
 
-### Q: What if I've never designed B2B SaaS before?
+### Q: Bagaimana jika saya never design B2B SaaS before?
 
-**A:** Be honest in your application.
+**A:** Be honest di application Anda.
 
-If this is your first B2B SaaS project:
+Jika ini first B2B SaaS project Anda:
 - Acknowledge learning curve
-- Add 20-30% buffer to timeline estimate
-- Propose starting with Project 1 only (15 screens, lower risk)
+- Add 20-30% buffer ke timeline estimate Anda
+- Propose starting dengan Project 1 only (15 screens, lower risk)
 - Highlight transferable skills (e.g., complex e-commerce dashboards, admin panels)
 
-**We value honesty.** Junior designers welcome if portfolio shows strong fundamentals.
+**Kami value honesty.** Junior designers welcome jika portfolio shows strong fundamentals.
 
 ---
 
-### Q: Can I use existing UI kits (Material Design, Ant Design, Tailwind UI)?
+### Q: Bisakah saya use existing UI kits (Material Design, Ant Design, Tailwind UI)?
 
-**A:** Partially, but not fully.
+**A:** Partially, tapi not fully.
 
-- ✅ Use as inspiration for component patterns
-- ✅ Adapt components to match PakeAja brand
-- ❌ Don't just reskin existing UI kit (we need custom design system)
+- ✅ Use as inspiration untuk component patterns
+- ✅ Adapt components untuk match PakeAja brand
+- ❌ Don't just reskin existing UI kit (kami need custom design system)
 
-We want a **custom design system**, not a generic template.
+Kami want **custom design system**, bukan generic template.
 
 ---
 
-### Q: How much creative freedom do I have?
+### Q: Seberapa banyak creative freedom yang saya punya?
 
-**A:** A lot! You decide:
+**A:** Banyak! Anda decide:
 - Color palette (no brand guidelines exist yet)
-- Typography (choose fonts that fit professional B2B aesthetic)
+- Typography (choose fonts yang fit professional B2B aesthetic)
 - Component style (rounded vs sharp, shadows vs flat)
 - Layout patterns (as long as functional requirements met)
 
-**Rule:** As long as it's professional, efficient, and meets functional requirements → full creative freedom.
+**Rule:** Selama professional, efficient, dan meets functional requirements → full creative freedom.
 
-See **[DESIGN_BRIEF.md](DESIGN_BRIEF.md)** for aesthetic references we like.
+Lihat **[DESIGN_BRIEF.md](DESIGN_BRIEF.md)** untuk aesthetic references yang kami suka.
 
 ---
 
-### Q: What file formats do you need?
+### Q: File formats apa yang Anda butuhkan?
 
 **A:** Figma only.
 
@@ -263,37 +263,37 @@ See **[DESIGN_BRIEF.md](DESIGN_BRIEF.md)** for aesthetic references we like.
 - Design system: Figma component library (organized, with variants, auto-layout)
 - Interactive prototypes: Figma prototype mode (clickable, presentation-ready)
 
-**After design approval, you'll also provide:**
-- Design tokens export (JSON or similar)
-- Style guide documentation (PDF or Notion doc)
+**Setelah design approval, Anda juga provide:**
+- Design tokens export (JSON atau similar)
+- Style guide documentation (PDF atau Notion doc)
 - Developer handoff notes (edge cases, interactions)
 
 ---
 
-### Q: Will I work directly with the founder or a team?
+### Q: Apakah saya work directly dengan founder atau team?
 
-**A:** Directly with Kevin (founder).
+**A:** Directly dengan Kevin (founder).
 
 **Working style:**
-- Weekly Google Meet check-ins (30-60 minutes)
-- Async communication via email (respond within 24 hours)
-- Milestone-based deliveries (review at end of each phase)
-- Figma collaboration (Kevin will comment directly in Figma)
+- Weekly Google Meet check-ins (30-60 menit)
+- Async communication via email (respond dalam 24 jam)
+- Milestone-based deliveries (review di end of each phase)
+- Figma collaboration (Kevin akan comment directly di Figma)
 
 **No bureaucracy.** Fast decisions, direct feedback.
 
 ---
 
-### Q: What if PakeAja pivots or changes scope?
+### Q: Bagaimana jika PakeAja pivots atau changes scope?
 
 **A:** Unlikely (problem validated, market research done).
 
-But if scope changes significantly:
-- We'll discuss compensation adjustments
-- You can exit gracefully (payment for completed work)
-- Or continue with revised scope
+Tapi jika scope changes significantly:
+- Kami akan discuss compensation adjustments
+- Anda bisa exit gracefully (payment untuk completed work)
+- Atau continue dengan revised scope
 
-**Payment protection:** Milestone-based (30%-30%-30%-10%), you're paid as you deliver.
+**Payment protection:** Milestone-based (30%-30%-30%-10%), Anda paid as you deliver.
 
 ---
 
@@ -301,17 +301,17 @@ But if scope changes significantly:
 
 ### Must-Have:
 - ✅ Expert-level Figma (auto-layout, variants, components, prototypes)
-- ✅ Portfolio with 3+ projects (case studies showing process)
+- ✅ Portfolio dengan 3+ projects (case studies showing process)
 - ✅ Understanding of Indonesian UI/UX conventions
 - ✅ Good communication skills (Bahasa Indonesia)
-- ✅ Full commitment for project duration (6-8 weeks availability)
+- ✅ Full commitment untuk project duration (6-8 minggu availability)
 
 ### Nice-to-Have:
-- 🌟 B2B SaaS or dashboard design experience
+- 🌟 B2B SaaS atau dashboard design experience
 - 🌟 Complete design system creation from scratch
 - 🌟 Mobile-first responsive design expertise
-- 🌟 Developer handoff best practices (worked with dev teams before)
-- 🌟 Icon design, illustration skills (bonus for long-term collaboration)
+- 🌟 Developer handoff best practices (worked dengan dev teams before)
+- 🌟 Icon design, illustration skills (bonus untuk long-term collaboration)
 
 ---
 
@@ -326,40 +326,40 @@ But if scope changes significantly:
 
 ### Step 2: Prepare Your Proposal
 
-Based on the scope documentation:
+Berdasarkan scope documentation:
 1. Review deliverables breakdown (wireframes, mockups, design system, prototypes)
 2. Estimate timeline based on your availability
-3. Prepare your standard rates and approach
-4. Think about design direction and methodology
+3. Prepare your standard rates dan approach
+4. Think about design direction dan methodology
 
 ---
 
 ### Step 3: Submit Google Form
 
-**Application form:** [LINK PROVIDED IN JOB POSTING - FastWork or direct email]
+**Application form:** [LINK PROVIDED IN JOB POSTING - FastWork atau direct email]
 
 **Include:**
 - Portfolio link (public access, no login required)
 - Brief introduction (experience, specialization)
 - Rate information (your standard design rates)
 - Timeline estimate (start date, weekly hours, estimated completion)
-- Design approach (how would you tackle this project?)
+- Design approach (bagaimana Anda tackle this project?)
 - Case study (1 proud project, explain your process)
 
 ---
 
 ### Step 4: Wait for Our Response
 
-We'll review applications within 2-3 business days and contact shortlisted candidates via email.
+Kami akan review applications dalam 2-3 business days dan contact shortlisted candidates via email.
 
-**Questions before applying?**
-Email: [INSERT EMAIL] or message via FastWork platform.
+**Questions sebelum apply?**
+Email: [INSERT EMAIL] atau message via FastWork platform.
 
 ---
 
 ## Repository Structure
 
-All files in root directory (flat structure):
+Semua files di root directory (flat structure):
 
 ```
 ├── README.md                      ← You are here
@@ -385,14 +385,14 @@ All files in root directory (flat structure):
 
 | Phase | Duration | Details |
 |-------|----------|---------|
-| **Application Review** | 2-3 days | Portfolio scoring, shortlist top 3-5 |
-| **Interviews** | Week 1-2 | 30-min Google Meet with shortlisted candidates |
+| **Application Review** | 2-3 hari | Portfolio scoring, shortlist top 3-5 |
+| **Interviews** | Week 1-2 | 30-min Google Meet dengan shortlisted candidates |
 | **Decision & Contract** | Week 2-3 | Select designer, sign contract |
 | **Project Kickoff** | Week 3-4 | Share detailed documentation, align on approach |
-| **Design Execution** | 6-8 weeks | Wireframes → Mockups → Design System → Prototypes |
+| **Design Execution** | 6-8 minggu | Wireframes → Mockups → Design System → Prototypes |
 | **Handoff to Dev** | Week 9-10 | Developer handoff, design QA |
 
-**Total Time (posting to handoff):** 10-12 weeks
+**Total Time (posting to handoff):** 10-12 minggu
 
 ---
 
@@ -400,7 +400,7 @@ All files in root directory (flat structure):
 
 ### This repository is PUBLIC
 
-All documentation here is public for transparency. Internal development repo is PRIVATE.
+Semua documentation di sini public untuk transparency. Internal development repo adalah PRIVATE.
 
 **What's public:** Design requirements, product specs, user flows
 **What's private:** Backend code, database credentials, API keys
@@ -409,11 +409,11 @@ All documentation here is public for transparency. Internal development repo is 
 
 ### Intellectual Property
 
-By applying and accepting the project:
-- ✅ All designs created become PakeAja property (you retain portfolio rights)
-- ✅ You can showcase work in portfolio (after product launch)
-- ✅ We credit you as designer (if you want)
-- ❌ You cannot sell same designs to competitors
+By applying dan accepting the project:
+- ✅ Semua designs created become PakeAja property (Anda retain portfolio rights)
+- ✅ Anda bisa showcase work di portfolio (setelah product launch)
+- ✅ Kami credit Anda as designer (jika Anda mau)
+- ❌ Anda cannot sell same designs ke competitors
 
 **Standard freelance IP terms** - details in contract.
 
@@ -421,12 +421,12 @@ By applying and accepting the project:
 
 ## Contact & Support
 
-**For questions about this documentation:**
-- Open a GitHub issue (if you have GitHub account)
+**Untuk questions tentang documentation ini:**
+- Open a GitHub issue (jika Anda punya GitHub account)
 - Email: [INSERT EMAIL]
-- Message via FastWork platform (if applying there)
+- Message via FastWork platform (jika apply di sana)
 
-**Response time:** Within 24-48 hours (business days)
+**Response time:** Dalam 24-48 jam (business days)
 
 ---
 

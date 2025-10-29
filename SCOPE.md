@@ -2,7 +2,7 @@
 
 ## MVP Scope Overview
 
-This document outlines the complete design deliverables for PakeAja MVP (Minimum Viable Product).
+Dokumen ini menguraikan complete design deliverables untuk PakeAja MVP (Minimum Viable Product).
 
 ---
 
@@ -67,16 +67,16 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
 ### Deliverable 2: High-Fidelity Mockups
 
 **Scope:**
-- All 23 screens with full visual design
+- All 23 screens dengan full visual design
 - Consistent color palette, typography, spacing
 - Indonesian UI/UX conventions applied
-- Responsive design for desktop and mobile viewports
+- Responsive design untuk desktop dan mobile viewports
 - Real content examples (not lorem ipsum)
-- Hover states, active states, disabled states for interactive elements
+- Hover states, active states, disabled states untuk interactive elements
 
 **Design Requirements:**
 - Professional B2B SaaS aesthetic (clean, efficient, not playful)
-- Approachable brand personality in copy/messaging
+- Approachable brand personality dalam copy/messaging
 - Accessibility considerations (color contrast, readable fonts)
 - Data visualization design (charts, graphs, progress indicators)
 
@@ -104,22 +104,22 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
   - Typography scale (font families, sizes, weights, line heights)
   - Spacing system (margins, paddings, gaps)
   - Border radius, shadows, elevation levels
-  - Breakpoints for responsive design
+  - Breakpoints untuk responsive design
 
 - **Style Guide Documentation:**
-  - Usage guidelines for each component
+  - Usage guidelines untuk setiap component
   - Do's and don'ts examples
   - Accessibility notes
   - Responsive behavior patterns
 
-**Format:** Figma with organized component library using variants, auto-layout, and proper naming conventions
+**Format:** Figma with organized component library using variants, auto-layout, dan proper naming conventions
 
 ---
 
 ### Deliverable 4: Interactive Prototypes
 
 **Scope:**
-- Clickable prototypes for key user flows (minimum 8 flows):
+- Clickable prototypes untuk key user flows (minimum 8 flows):
   1. Contractor: Login → Create Project → Upload Photos
   2. Contractor: Dashboard → Project Detail → Generate Report
   3. Contractor: Invoice Creation & Sending to Client
@@ -134,9 +134,9 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
   - Button click interactions
   - Form input behavior (focus states, validation feedback)
   - Dropdown menus & modal overlays
-  - Hover effects and micro-interactions
+  - Hover effects dan micro-interactions
 
-**Format:** Figma prototype with presentation mode ready for user testing
+**Format:** Figma prototype dengan presentation mode ready untuk user testing
 
 ---
 
@@ -148,79 +148,79 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
 
 ## Split Project Option
 
-If working in phases, we offer two projects:
+Jika working in phases, kami offer two projects:
 
 ### Project 1: Contractor Dashboard (15 screens)
-- All 4 deliverables for 15 contractor-facing screens
+- All 4 deliverables untuk 15 contractor-facing screens
 
 ### Project 2: Client Portal (8 screens)
-- All 4 deliverables for 8 client-facing screens
-- Uses design system from Project 1 (faster execution)
+- All 4 deliverables untuk 8 client-facing screens
+- Uses design system dari Project 1 (faster execution)
 
 ---
 
 ## What's NOT Included in This Scope
 
-This is a **design project**, NOT a development project. The following are **excluded**:
+Ini adalah **design project**, BUKAN development project. Yang berikut ini **excluded**:
 
 - ❌ Frontend/backend development (coding)
-- ❌ Database setup or API integration
-- ❌ User testing or usability research
-- ❌ Content writing or copywriting (you'll use placeholder copy provided)
-- ❌ Logo design or full brand identity (logo will be provided if available)
+- ❌ Database setup atau API integration
+- ❌ User testing atau usability research
+- ❌ Content writing atau copywriting (Anda akan use placeholder copy provided)
+- ❌ Logo design atau full brand identity (logo will be provided jika available)
 - ❌ Marketing materials (landing page redesign, pitch decks, social media)
-- ❌ Post-launch design support (this is negotiated separately)
+- ❌ Post-launch design support (ini negotiated separately)
 
-**Note:** Marketing materials, icons, illustrations, and ongoing design support are potential **Phase 2 opportunities** for long-term collaboration.
+**Note:** Marketing materials, icons, illustrations, dan ongoing design support adalah potential **Phase 2 opportunities** untuk long-term collaboration.
 
 ---
 
 ## Design Complexity Considerations
 
-This project is **NOT a simple landing page or marketing website**. Key complexity factors:
+Project ini adalah **NOT a simple landing page atau marketing website**. Key complexity factors:
 
-1. **Two-sided platform:** Different interfaces for contractors vs clients (different needs, permissions, data views)
+1. **Two-sided platform:** Different interfaces untuk contractors vs clients (different needs, permissions, data views)
 2. **Data-heavy dashboards:** Complex data visualization, tables, charts, financial tracking
-3. **Complete design system from scratch:** No existing brand guidelines or component library
+3. **Complete design system from scratch:** No existing brand guidelines atau component library
 4. **Mobile-responsive across 23 screens:** Desktop primary + mobile-optimized layouts
-5. **B2B SaaS UX patterns:** Workflow optimization for non-tech-savvy users managing Rp 500M+ projects
+5. **B2B SaaS UX patterns:** Workflow optimization untuk non-tech-savvy users managing complex projects
 
-For detailed complexity analysis, see [DESIGN_COMPLEXITY.md](DESIGN_COMPLEXITY.md).
+Untuk detailed complexity analysis, lihat [DESIGN_COMPLEXITY.md](DESIGN_COMPLEXITY.md).
 
 ---
 
 ## Deliverables Checklist
 
-Use this checklist to ensure all deliverables are complete:
+Gunakan checklist ini untuk ensure semua deliverables complete:
 
 ### Wireframes ✅
 - [ ] All 23 screens designed in low-fidelity
-- [ ] Desktop and mobile layouts shown
+- [ ] Desktop dan mobile layouts shown
 - [ ] Navigation flow is clear
 - [ ] Information hierarchy established
-- [ ] Organized in Figma with clear naming
+- [ ] Organized in Figma dengan clear naming
 
 ### High-Fidelity Mockups ✅
-- [ ] All 23 screens with full visual design
+- [ ] All 23 screens dengan full visual design
 - [ ] Consistent color palette applied
 - [ ] Typography system implemented
-- [ ] Responsive designs for desktop + mobile
+- [ ] Responsive designs untuk desktop + mobile
 - [ ] Hover/active/disabled states included
 - [ ] Real content examples (not lorem ipsum)
 
 ### Design System ✅
-- [ ] Component library created with variants
+- [ ] Component library created dengan variants
 - [ ] Design tokens documented
-- [ ] Style guide with usage examples
-- [ ] Organized using auto-layout and proper naming
-- [ ] Ready for developer handoff
+- [ ] Style guide dengan usage examples
+- [ ] Organized using auto-layout dan proper naming
+- [ ] Ready untuk developer handoff
 
 ### Interactive Prototypes ✅
 - [ ] Minimum 8 key user flows prototyped
-- [ ] Smooth transitions and interactions
+- [ ] Smooth transitions dan interactions
 - [ ] Mobile prototype included
-- [ ] Presentation mode tested and working
-- [ ] Ready for stakeholder review
+- [ ] Presentation mode tested dan working
+- [ ] Ready untuk stakeholder review
 
 ---
 
