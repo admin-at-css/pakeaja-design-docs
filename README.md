@@ -22,20 +22,15 @@ PakeAja adalah B2B SaaS platform yang membantu perusahaan kontraktor mengelola p
 ### 🗂️ Reference (`/reference`)
 - **Database Schema** - Technical reference untuk understand data structure (optional)
 
-## Untuk UI/UX Designer Applicants
+## Cara Menggunakan Dokumentasi Ini
 
-Jika Anda tertarik dengan UI/UX Designer position kami, kami **strongly recommend** untuk:
+Untuk memahami project secara comprehensive, kami recommend untuk review dokumentasi dalam urutan berikut:
 
-1. ✅ Review **PRD** untuk understand full scope dan requirements
-2. ✅ Review **User Personas** untuk understand target users
-3. ✅ Review **Information Architecture** untuk understand navigation structure
-4. ✅ Review **User Flows** untuk understand key user journeys
-5. ✅ Review **UI/UX Design Brief** untuk understand design expectations
-
-Dengan review dokumentasi ini terlebih dahulu, Anda akan bisa:
-- Understand full scope project (23 screens total)
-- Calculate budget yang accurate berdasarkan real requirements
-- Provide thoughtful design approach di application Anda
+1. ✅ **PRD** - Understand full scope dan requirements
+2. ✅ **User Personas** - Understand target users
+3. ✅ **Information Architecture** - Understand navigation structure
+4. ✅ **User Flows** - Understand key user journeys
+5. ✅ **UI/UX Design Brief** - Understand design expectations dan guidelines
 
 ## Project Scope Summary
 
@@ -49,24 +44,9 @@ Dengan review dokumentasi ini terlebih dahulu, Anda akan bisa:
 3. Complete Design System (component library, design tokens, style guide di Figma)
 4. Interactive Prototypes (clickable prototype untuk key user flows)
 
-**Indicative Budget:**
-- Project 1 (Contractor Dashboard, 15 screens): Rp 6 juta
-- Project 2 (Client Portal, 8 screens): Rp 3 juta
-- Both projects: Rp 9 juta
-
-Budget is indicative - kami open untuk discuss setelah Anda review dokumentasi lengkap.
-
-## How to Apply
-
-Setelah review dokumentasi ini, silakan apply via job posting kami di **FastWork** atau follow application instructions yang kami berikan.
-
 ---
 
-**Note:** Repository ini adalah public documentation untuk UI/UX hiring process. Internal development repo adalah private.
-
-## Questions?
-
-Jika ada pertanyaan tentang dokumentasi atau project scope, silakan include di application form Anda atau email kami during interview process.
+**Note:** Repository ini adalah public documentation untuk product design reference. Internal development repo adalah private.
 
 ---
 
