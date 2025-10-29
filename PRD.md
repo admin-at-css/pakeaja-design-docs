@@ -926,7 +926,6 @@ Fitur-fitur ini bagus tapi **TIDAK** akan dibangun di MVP:
 | **Magic Link** | Link di email yang auto-login tanpa perlu password |
 | **Two-sided Platform** | Platform dengan 2 tipe user yang saling benefit (kontraktor & project owner) |
 | **BAST** | Berita Acara Serah Terima - dokumen official handover project |
-| **PPN** | Pajak Pertambahan Nilai (11% di Indonesia) - sama dengan VAT |
 
 ### 14.3 Competitive Analysis Reference
 
