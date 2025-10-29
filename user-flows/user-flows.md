@@ -1,103 +1,105 @@
-# User Flows
+# User Flows (Alur Pengguna)
 
-**Last Updated:** October 28, 2025
+**Last Updated:** October 29, 2025
 **Status:** Brainstorming Phase
 
 ---
 
 ## Overview
 
-This document maps out key user journeys for both contractors (primary users) and project owners (client portal users). Each flow describes step-by-step interactions with the system.
+Dokumen ini memetakan user journeys utama untuk kontraktor (primary users) dan project owners (client portal users). Setiap flow menjelaskan step-by-step interaksi dengan sistem.
+
+**Note:** Technical terms (button names, field names, system actions) tetap dalam English untuk consistency dengan development. Deskripsi dan context dalam Bahasa Indonesia.
 
 ---
 
 ## Contractor Flows
 
-### Flow 1: Create New Project & Invite Client
+### Flow 1: Membuat Project Baru & Mengundang Client
 
-**Actor:** Project Manager (Contractor)
-**Goal:** Set up a new painting project and give client portal access
+**Actor:** Project Manager (Kontraktor)
+**Goal:** Setup project pengecatan baru dan berikan akses portal ke client
 
 **Steps:**
-1. PM logs into PakeAja dashboard
-2. Clicks "Create New Project" button
-3. Fills out project creation form:
+1. PM login ke PakeAja dashboard
+2. Click button "Create New Project"
+3. Mengisi project creation form:
    - Project name: "Grand Indonesia Mall Repainting"
    - Client company: "PT Grand Indonesia"
    - Contact person: "Budi Santoso"
    - Contact email: `budi@grandindonesia.com`
    - Location: "Jl. MH Thamrin, Jakarta"
    - Start date: March 1, 2025
-   - Estimated end: May 15, 2025 (10 weeks)
-   - Total budget: IDR 500,000,000
-4. Clicks "Create Project"
-5. System creates project, redirects to project dashboard
-6. PM sees button "Invite Client to Portal"
-7. Clicks "Invite Client"
-8. Confirmation modal:
+   - Estimated end: May 15, 2025 (10 minggu)
+   - Total budget: Rp 500.000.000
+4. Click "Create Project"
+5. System membuat project, redirect ke project dashboard
+6. PM melihat button "Invite Client to Portal"
+7. Click "Invite Client"
+8. Confirmation modal muncul:
    - "Send portal invitation to budi@grandindonesia.com?"
    - Checkbox: "Client can comment on project"
    - Checkbox: "Client can approve change orders"
-9. PM clicks "Send Invitation"
+9. PM click "Send Invitation"
 10. System:
-    - Creates ProjectAccess record
-    - Sends email to Budi with magic link
-    - Shows success message: "Invitation sent to budi@grandindonesia.com"
-11. PM proceeds to add materials and milestones
+    - Membuat ProjectAccess record
+    - Mengirim email ke Budi dengan magic link
+    - Menampilkan success message: "Invitation sent to budi@grandindonesia.com"
+11. PM melanjutkan untuk menambah materials dan milestones
 
-**Result:** Project created, client has portal access
+**Result:** Project berhasil dibuat, client memiliki akses portal
 
 ---
 
-### Flow 2: Add Materials to Project
+### Flow 2: Menambah Materials ke Project
 
 **Actor:** Project Manager
-**Goal:** Define materials needed and track their status
+**Goal:** Mendefinisikan materials yang dibutuhkan dan tracking status-nya
 
 **Steps:**
-1. PM navigates to project page
-2. Clicks "Materials" tab
-3. Sees empty material list, clicks "Add Material"
-4. Modal opens with form:
-   - Search/select from database OR add new
+1. PM navigasi ke project page
+2. Click tab "Materials"
+3. Melihat material list kosong, click "Add Material"
+4. Modal terbuka dengan form:
+   - Search/select dari database ATAU add new
    - Name: "Nippon Weathershield White"
    - Category: Paint
    - Brand: Nippon
-   - Quantity: 200 liters
-   - Unit price: IDR 150,000/liter
+   - Quantity: 200 liter
+   - Unit price: Rp 150.000/liter
    - Supplier: (dropdown) "PT Sumber Cat"
    - Expected delivery: March 5, 2025
-5. Clicks "Save Material"
-6. Material appears in list with status "Planned"
-7. PM repeats for primer, putty, tools (5-10 materials total)
-8. PM clicks "Order Materials" bulk action
-9. System updates status to "Ordered", sets orderedDate to today
-10. Email notification sent to supplier (optional feature)
-11. Project owner sees material status update in portal: "5 materials ordered"
+5. Click "Save Material"
+6. Material muncul di list dengan status "Planned"
+7. PM mengulangi untuk primer, putty, tools (5-10 materials total)
+8. PM click "Order Materials" bulk action
+9. System update status menjadi "Ordered", set orderedDate ke hari ini
+10. Email notification dikirim ke supplier (optional feature)
+11. Project owner melihat material status update di portal: "5 materials ordered"
 
-**Result:** Materials defined, status tracked, client can see progress
+**Result:** Materials terdefinisi, status ter-tracking, client bisa melihat progress
 
 ---
 
 ### Flow 3: Upload Progress Photos (Mobile-First)
 
-**Actor:** Field Supervisor (on-site)
-**Goal:** Document daily progress with photos
+**Actor:** Field Supervisor (di lapangan)
+**Goal:** Mendokumentasikan progress harian dengan foto
 
 **Steps:**
-1. Supervisor opens PakeAja on mobile phone (responsive web or PWA)
-2. Navigates to project > "Add Progress Photo"
-3. Camera opens (or file picker)
-4. Takes photo of freshly painted lobby area
-5. Form appears:
-   - Photo preview (with edit/retake option)
+1. Supervisor buka PakeAja di mobile phone (responsive web atau PWA)
+2. Navigasi ke project > "Add Progress Photo"
+3. Camera terbuka (atau file picker)
+4. Mengambil foto area lobby yang baru selesai dicat
+5. Form muncul:
+   - Photo preview (dengan opsi edit/retake)
    - Area: (dropdown) "Lobby"
    - Photo type: (dropdown) "Progress"
    - Caption: "Topcoat application - first coat"
    - Auto-captured: Geolocation, timestamp
-6. Clicks "Upload Photo"
+6. Click "Upload Photo"
 7. System:
-   - Compresses image (client-side)
+   - Compress image (client-side)
    - Uploads to cloud storage
    - Creates ProjectPhoto record
    - Updates lobby area progress: 50% → 60%

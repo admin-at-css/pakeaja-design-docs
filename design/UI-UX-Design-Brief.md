@@ -155,6 +155,25 @@ Ada **DUA layer** yang perlu Anda understand:
 - **Anda bebas create brand identity dari scratch** (colors, typography, visual style)
 - Ikuti brand positioning guidelines di atas sebagai panduan
 
+**Design References (Aesthetic Direction):**
+
+Berikut beberapa design references yang kami suka sebagai inspirasi aesthetic direction:
+
+1. **Gantt View Example:**
+   - https://dribbble.com/shots/21099259-Projects-Gantt-View
+   - Yang kami suka: Clean layout, professional data visualization, good use of color for timeline view
+   - Apply to: Project timeline screens, milestone tracking
+
+2. **SaaS Dashboard Overview:**
+   - https://dribbble.com/shots/22988502-Overview-SaaS-Web-App-UI-UX-Design
+   - Yang kami suka: Modern, clean dashboard layout, good information hierarchy, professional but not too corporate
+   - Apply to: Main dashboard, overview screens, data-heavy interfaces
+
+**Catatan:**
+- Gunakan references ini sebagai **inspirasi aesthetic**, bukan untuk di-copy
+- Adapt ke konteks Indonesian users dan painting contractor industry
+- Maintain balance: professional (seperti examples) tapi approachable (brand personality)
+
 ### 3.2 Color Direction (Suggestions, Not Requirements)
 
 **Status Indicator Colors** (functional requirement):
