@@ -17,11 +17,11 @@ We're looking for:
 - ✅ **Design partner** who understands PakeAja vision
 - ✅ **Reliable collaborator** for ongoing product evolution
 - ✅ **Versatile designer** (product UI, marketing, icons, illustrations)
-- ✅ **Long-term relationship** (grow income as product scales)
+- ✅ **Long-term relationship** (grow as product scales)
 
 ---
 
-## Phase 2: Product Feature Expansion (6-12 Months Post-MVP)
+## Phase 2: Product Feature Expansion
 
 ### 2A. CRM Module (Customer Relationship Management)
 
@@ -37,8 +37,6 @@ We're looking for:
 - Sales reporting (conversion rates, revenue pipeline)
 
 **Estimated Screens:** 6-8 screens
-**Estimated Budget:** Rp 3-4 juta
-**Timeline:** 2-3 weeks
 
 ---
 
@@ -56,8 +54,6 @@ We're looking for:
 - Inventory reports (usage trends, cost analysis)
 
 **Estimated Screens:** 6-8 screens
-**Estimated Budget:** Rp 3-4 juta
-**Timeline:** 2-3 weeks
 
 ---
 
@@ -75,8 +71,6 @@ We're looking for:
 - Payment tracking (outstanding balances, payment schedules)
 
 **Estimated Screens:** 7-10 screens
-**Estimated Budget:** Rp 4-5 juta
-**Timeline:** 3-4 weeks
 
 ---
 
@@ -95,23 +89,20 @@ We're looking for:
   - Notifications (real-time alerts for workers)
 
 **Estimated Screens:** 10-12 screens (mobile-specific)
-**Estimated Budget:** Rp 5-7 juta
-**Timeline:** 3-4 weeks
 
 **Note:** This builds on Phase 1 design system but requires mobile-native patterns (bottom navigation, swipe gestures, camera integration).
 
 ---
 
-### Phase 2 Total Opportunity
+### Phase 2 Summary
 
 **If all Phase 2 modules are designed:**
-- **Total Screens:** 30-40 additional screens
-- **Total Budget:** Rp 15-20 juta
-- **Timeline:** 10-14 weeks (spread over 6-12 months as features are prioritized)
+- **Total Screens:** 30-40 additional screens across CRM, Inventory, Supplier Portal, and Mobile App
+- Features roll out over 6-12 months as product grows
 
 ---
 
-## Phase 3: Marketing & Brand Design (Ongoing)
+## Phase 3: Marketing & Brand Design
 
 As PakeAja grows, we'll need **marketing materials** to attract customers.
 
@@ -129,8 +120,6 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 - Blog layout (case studies, construction industry tips)
 
 **Estimated Pages:** 5-7 pages
-**Estimated Budget:** Rp 4-6 juta
-**Timeline:** 2-3 weeks
 
 ---
 
@@ -145,8 +134,6 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 - Email templates (onboarding, progress updates, invoices)
 
 **Estimated Deliverables:** 4 templates
-**Estimated Budget:** Rp 2-3 juta
-**Timeline:** 1-2 weeks
 
 ---
 
@@ -160,35 +147,30 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 - Ad creatives (Facebook/Instagram ads, Google Display ads)
 
 **Estimated Deliverables:** 10-15 templates
-**Estimated Budget:** Rp 2-3 juta
-**Timeline:** 1-2 weeks
 
 ---
 
-### Phase 3 Total Opportunity
+### Phase 3 Summary
 
 **If all marketing materials are designed:**
-- **Total Deliverables:** 20-30 templates/pages
-- **Total Budget:** Rp 8-12 juta
-- **Timeline:** 4-7 weeks (as needed for marketing campaigns)
+- **Total Deliverables:** 20-30 templates/pages across landing page, sales materials, and social media
+- Marketing work happens as needed for campaigns and growth initiatives
 
 ---
 
-## Phase 4: Icons, Illustrations & UI Kit Expansions (Ongoing)
+## Phase 4: Icons, Illustrations & UI Kit Expansions
 
 ### 4A. Custom Icon Set
 
 **Problem:** Phase 1 might use icon libraries (Heroicons, Lucide, Feather). As product matures, custom icons create unique identity.
 
 **Design Scope:**
-- Custom icon set (100-150 icons)
+- Custom icon set for PakeAja brand
 - Categories: Navigation, actions, status, file types, construction tools, financial
 - Consistent style (line icons, scalable, multi-size)
 - Figma library + SVG exports
 
 **Estimated Icons:** 100-150 unique icons
-**Estimated Budget:** Rp 3-5 juta
-**Timeline:** 2-3 weeks
 
 ---
 
@@ -197,22 +179,20 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 **Purpose:** Enhance empty states, onboarding, error pages, marketing.
 
 **Design Scope:**
-- Empty state illustrations (10-15 illustrations):
+- Empty state illustrations:
   - "No projects yet" (contractor dashboard)
   - "No invoices" (client portal)
   - "No photos uploaded" (gallery)
   - "Budget on track" (success state)
   - "Over budget" (warning state)
-- Onboarding illustrations (5-7 illustrations):
+- Onboarding illustrations:
   - Welcome screen (contractor)
   - Welcome screen (client)
   - Feature highlights (photo upload, budget tracking, invoicing)
-- Error page illustrations (3-5 illustrations):
+- Error page illustrations:
   - 404 page, 500 error, network error
 
 **Estimated Illustrations:** 20-30 illustrations
-**Estimated Budget:** Rp 4-6 juta
-**Timeline:** 2-4 weeks
 
 **Note:** Style should match brand (professional but approachable, not playful).
 
@@ -228,17 +208,15 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 - Dark mode (if needed in future)
 - Accessibility improvements (WCAG compliance, screen reader support)
 
-**Estimated Budget:** Rp 1-2 juta per quarter (retainer-based)
-**Timeline:** Ongoing as needed
+**Ongoing:** Component library evolves as product grows
 
 ---
 
-### Phase 4 Total Opportunity
+### Phase 4 Summary
 
 **If all icons, illustrations, and UI kit expansions are designed:**
 - **Total Deliverables:** 120-180 icons/illustrations + ongoing component updates
-- **Total Budget:** Rp 8-13 juta (one-time) + Rp 4-8 juta/year (retainer)
-- **Timeline:** 6-10 weeks (one-time) + ongoing
+- Work happens as product needs mature and brand identity solidifies
 
 ---
 
@@ -246,53 +224,30 @@ As PakeAja grows, we'll need **marketing materials** to attract customers.
 
 If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing design support.
 
-### Retainer Structure (Proposed):
+### Retainer Tiers (Scope of Work):
 
-**Tier 1: Light Support (Rp 2-3 juta/month)**
-- 10-15 hours/month
+**Light Support**
 - Minor updates, bug fixes, small feature tweaks
 - Responsive support (design questions, developer handoff)
 - Best for: After major features are complete, maintenance mode
 
-**Tier 2: Active Collaboration (Rp 4-6 juta/month)**
-- 20-30 hours/month
+**Active Collaboration**
 - New feature design (1-2 new screens/month)
 - Marketing materials (social posts, blog graphics)
 - A/B testing variations (landing page CRO)
 - Best for: Active product development phase
 
-**Tier 3: Dedicated Designer (Rp 8-12 juta/month)**
-- 40-60 hours/month (part-time to full-time equivalent)
+**Dedicated Designer**
 - All design needs (product, marketing, icons, illustrations)
 - Priority support (same-day turnaround for urgent requests)
 - Strategic design input (roadmap planning, UX audits)
 - Best for: Scaling phase, rapid feature rollout
 
 **Benefits of Retainer:**
-- ✅ **Stable income** (predictable monthly revenue)
+- ✅ **Stable income** (predictable monthly work)
 - ✅ **Deep product knowledge** (become PakeAja design expert)
-- ✅ **Flexibility** (adjust hours as needs change)
+- ✅ **Flexibility** (adjust scope as needs change)
 - ✅ **Long-term relationship** (grow with the company)
-
----
-
-## Total Long-Term Opportunity (12-24 Months)
-
-| Phase | Scope | Estimated Budget |
-|-------|-------|------------------|
-| **Phase 1 (MVP)** | 23 screens, design system, prototypes | Rp 9 juta |
-| **Phase 2 (Features)** | CRM, Inventory, Supplier Portal, Mobile App | Rp 15-20 juta |
-| **Phase 3 (Marketing)** | Landing page, pitch deck, social assets | Rp 8-12 juta |
-| **Phase 4 (Icons/Illustrations)** | Custom icons, illustrations, UI Kit expansion | Rp 8-13 juta |
-| **Retainer (Year 1)** | Ongoing support (12 months × Rp 4-6 juta) | Rp 48-72 juta |
-| **TOTAL (2 years)** | Complete design partnership | **Rp 88-126 juta** |
-
-**This assumes:**
-- You deliver excellent results on Phase 1
-- Product-market fit is validated (customers pay for PakeAja)
-- We secure funding or reach profitability (able to invest in design)
-
-**Not guaranteed, but realistic potential** if chemistry is good and quality is consistently high.
 
 ---
 
@@ -328,7 +283,7 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 ### During Interview:
 - Express interest in **long-term collaboration** (not just one project)
-- Show **curiosity about PakeAja** (ask about business model, target market, vision)
+- Show **curiosity about PakeAja** (ask about target users, vision, challenges)
 - Highlight **versatile skills** (product + marketing + icons/illustrations)
 - Demonstrate **reliability** (share examples of multi-phase projects you've done)
 
@@ -342,30 +297,30 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 **Month 1-2 (Phase 1):**
 - Intensive collaboration (MVP design)
-- Payment: Milestone-based (30%-30%-30%-10%)
+- Milestone-based project work
 
 **Month 3-6 (Development):**
 - Light involvement (design QA, minor tweaks)
-- Payment: Hourly or small fixed fee for ad-hoc tasks
+- Ad-hoc tasks as needed
 
 **Month 7-12 (Post-Launch):**
 - Medium collaboration (Phase 2 features, marketing materials)
-- Payment: Project-based or start monthly retainer
+- Project-based or start monthly retainer
 
 **Month 13-24 (Scaling):**
 - Active retainer (ongoing design support)
-- Payment: Monthly retainer (Rp 4-12 juta/month depending on volume)
+- Regular monthly work as product grows
 
 **This is a marathon, not a sprint.**
 
 ---
 
-## Questions You Might Have
+## Questions Designers Often Ask
 
 ### Q: Is Phase 2 guaranteed if I do well on Phase 1?
-**A:** Not guaranteed (depends on funding, product success), but **highly likely** if:
+**A:** Not guaranteed (depends on product success), but **highly likely** if:
 - Phase 1 quality is excellent
-- Product-market fit is validated
+- Product gains traction with customers
 - We secure funding or reach profitability
 
 **Probability:** 70-80% if Phase 1 goes well.
@@ -383,38 +338,15 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 ---
 
-### Q: Can I negotiate rates for Phase 2 even if I accept Phase 1 budget?
-**A:** Yes. Phase 2 is separate negotiation.
-
-**Example:**
-- Phase 1: Accept Rp 9 juta (competitive to win partnership)
-- Phase 2: Negotiate Rp 15-20 juta (now proven quality, higher rate justified)
-
-**We value honesty and fair compensation** - if your rate increases for Phase 2, we're open to discussion.
-
----
-
-### Q: What if PakeAja doesn't succeed (product fails, runs out of money)?
-**A:** Startup risk is real. We can't guarantee 2-year partnership.
-
-**But:**
-- Kevin (founder) is committed long-term (this is not a side project)
-- Market research is done (problem is validated, contractors need this)
-- Conservative budget approach (not burning cash, sustainable growth)
-
-**Worst case:** You have a strong portfolio piece (B2B SaaS product design) and payment for Phase 1 is secure.
-
----
-
 ### Q: Can I work on other projects while doing PakeAja retainer?
-**A:** Yes, unless you're on Tier 3 (dedicated designer, full-time equivalent).
+**A:** Yes, unless you're on dedicated designer tier (full-time equivalent).
 
-**Tier 1-2 retainers** are part-time commitments (10-30 hours/month). You can have other clients.
+**Light and active retainers** are part-time commitments. You can have other clients.
 
 **We just need:**
 - Predictable availability (e.g., "I work on PakeAja Mondays-Wednesdays")
 - Responsive communication (reply within 24 hours)
-- On-time delivery (if we agree on 2-week timeline, meet it)
+- On-time delivery (if we agree on timeline, meet it)
 
 ---
 
@@ -422,12 +354,12 @@ If Phase 1 goes well, we may transition to a **monthly retainer** for ongoing de
 
 **Phase 1 is important, but it's just the beginning.**
 
-We're building PakeAja to be **the leading platform for Indonesian contractors** over the next 5-10 years. The design partner who helps us get there will:
+We're building PakeAja to be the leading platform for Indonesian contractors over the next several years. The design partner who helps us get there will:
 
-- ✅ Build a **portfolio of real impact** (used by hundreds of businesses)
-- ✅ Earn **consistent income** (Rp 50-100 juta+ over 2 years)
+- ✅ Build a **portfolio of real impact** (used by many businesses)
+- ✅ Earn **consistent income** (stable work over multiple years)
 - ✅ Gain **deep industry knowledge** (construction tech, B2B SaaS)
-- ✅ Grow **alongside the product** (from MVP to market leader)
+- ✅ Grow **alongside the product** (from MVP to market presence)
 
 **This is bigger than one project.**
 
@@ -439,4 +371,4 @@ We're building PakeAja to be **the leading platform for Indonesian contractors**
 
 ---
 
-**Last Updated:** October 29, 2025
+*Last Updated: October 29, 2025*

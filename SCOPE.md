@@ -62,8 +62,6 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
 
 **Format:** Figma frames, organized by user type (Contractor vs Client)
 
-**Estimated Effort:** 1.5-2 weeks
-
 ---
 
 ### Deliverable 2: High-Fidelity Mockups
@@ -83,8 +81,6 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
 - Data visualization design (charts, graphs, progress indicators)
 
 **Format:** Figma frames with production-ready designs
-
-**Estimated Effort:** 2.5-3 weeks
 
 ---
 
@@ -118,8 +114,6 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
 
 **Format:** Figma with organized component library using variants, auto-layout, and proper naming conventions
 
-**Estimated Effort:** 1.5-2 weeks
-
 ---
 
 ### Deliverable 4: Interactive Prototypes
@@ -144,19 +138,11 @@ This document outlines the complete design deliverables for PakeAja MVP (Minimum
 
 **Format:** Figma prototype with presentation mode ready for user testing
 
-**Estimated Effort:** 1-1.5 weeks
-
 ---
 
 ## Total Estimated Timeline
 
-**Full Project (All 23 Screens):**
-- Phase 1: Wireframes → 1.5-2 weeks
-- Phase 2: High-fidelity mockups → 2.5-3 weeks
-- Phase 3: Design system → 1.5-2 weeks
-- Phase 4: Interactive prototypes → 1-1.5 weeks
-
-**Total Duration:** 6.5-8.5 weeks (approximately 2 months)
+**Full Project (All 23 Screens):** 6-8 weeks
 
 ---
 
@@ -166,12 +152,10 @@ If working in phases, we offer two projects:
 
 ### Project 1: Contractor Dashboard (15 screens)
 - All 4 deliverables for 15 contractor-facing screens
-- **Estimated Duration:** 4-5 weeks
 
 ### Project 2: Client Portal (8 screens)
 - All 4 deliverables for 8 client-facing screens
 - Uses design system from Project 1 (faster execution)
-- **Estimated Duration:** 2-3 weeks
 
 ---
 

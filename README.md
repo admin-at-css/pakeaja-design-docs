@@ -16,24 +16,21 @@ PakeAja is a **B2B SaaS platform** for Indonesian painting contractors managing 
 
 **Timeline:** 6-8 weeks for full project
 
-**Indicative Budget:** Rp 9,000,000 (Rp 6 juta for Project 1 + Rp 3 juta for Project 2)
-
 ---
 
 ## What's Included in This Repository
 
-This repository contains **all design requirements and context** you need to submit an informed proposal:
+This repository contains **all design requirements and context** you need to understand the project scope:
 
-✅ **Product Requirements Document (PRD)** - Complete functional requirements
-✅ **User Personas** - 6 detailed personas (contractors and project owners)
-✅ **Information Architecture** - Navigation structure, sitemap, URL patterns
-✅ **User Flows** - 16 detailed user journeys
-✅ **Design Brief** - Design guidelines, aesthetic direction, creative freedom
-✅ **Scope & Deliverables** - Breakdown of 23 screens, 4 design phases
-✅ **Design Complexity Analysis** - Why this is NOT a simple landing page
-✅ **Budget & Timeline Guide** - How to calculate your proposal
-✅ **Project Overview** - Business context, market opportunity
-✅ **Future Phases** - Long-term collaboration opportunities
+- ✅ **Product Requirements Document (PRD)** - Complete functional requirements
+- ✅ **User Personas** - 6 detailed personas (contractors and project owners)
+- ✅ **Information Architecture** - Navigation structure, sitemap, URL patterns
+- ✅ **User Flows** - 16 detailed user journeys
+- ✅ **Design Brief** - Design guidelines, aesthetic direction, creative freedom
+- ✅ **Scope & Deliverables** - Breakdown of 23 screens, 4 design phases
+- ✅ **Design Complexity Analysis** - Why this is NOT a simple landing page
+- ✅ **Project Overview** - Problem statement, solution, target users
+- ✅ **Future Phases** - Long-term collaboration opportunities
 
 ---
 
@@ -41,11 +38,11 @@ This repository contains **all design requirements and context** you need to sub
 
 This is **design documentation**, not implementation details. The following are **excluded**:
 
-❌ Development environment setup (React, Next.js, Supabase)
-❌ API credentials or database access
-❌ Backend implementation details
-❌ Existing branding assets (you have full creative freedom)
-❌ User testing results (we'll do this post-design)
+- ❌ Development environment setup (React, Next.js, Supabase)
+- ❌ API credentials or database access
+- ❌ Backend implementation details
+- ❌ Existing branding assets (you have full creative freedom)
+- ❌ User testing results (we'll do this post-design)
 
 You'll design in **Figma only** - no coding required.
 
@@ -81,10 +78,7 @@ You'll design in **Figma only** - no coding required.
 8. **[DESIGN_COMPLEXITY.md](DESIGN_COMPLEXITY.md)** *(20-25 min read)*
    8 complexity factors, why this is NOT a simple landing page
 
-9. **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** *(30-40 min read)*
-   Budget & timeline calculation guide, effort estimation framework
-
-**Total Review Time:** 2.5-3.5 hours
+**Total Review Time:** 2-3 hours
 
 ---
 
@@ -108,7 +102,7 @@ You'll design in **Figma only** - no coding required.
 **DO NOT skip this step.** Accurate proposals require understanding full scope.
 
 **Recommended reading order:**
-1. PROJECT_OVERVIEW.md (understand the business)
+1. PROJECT_OVERVIEW.md (understand the problem and solution)
 2. PRD.md (understand product requirements)
 3. USER_PERSONAS.md (understand your users)
 4. INFORMATION_ARCHITECTURE.md (understand navigation)
@@ -116,7 +110,6 @@ You'll design in **Figma only** - no coding required.
 6. DESIGN_BRIEF.md (understand design expectations)
 7. SCOPE.md (understand deliverables)
 8. DESIGN_COMPLEXITY.md (understand complexity)
-9. HOW_TO_PROPOSE.md (calculate budget)
 
 **After reading, you should know:**
 - ✅ What problem PakeAja solves (WhatsApp → professional platform)
@@ -124,56 +117,31 @@ You'll design in **Figma only** - no coding required.
 - ✅ What screens need to be designed (23 screens: 15 contractor + 8 client)
 - ✅ What deliverables are expected (wireframes, mockups, design system, prototypes)
 - ✅ Why this is complex (2-sided platform, data-heavy dashboards, design system from scratch)
-- ✅ How to calculate budget (effort breakdown by deliverable)
+- ✅ How to estimate your effort (scope breakdown by deliverable)
 
 ---
 
-### Step 2: Calculate Budget & Timeline (1-2 hours)
-
-Use the framework in **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** to calculate:
-
-**Effort Estimation:**
-- Wireframes (23 screens): 17-23 hours
-- High-fidelity mockups (23 screens): 65-80 hours
-- Design system (40-50 components): 40-58 hours
-- Interactive prototypes (8-10 flows): 15-20 hours
-- Revisions & refinements (25% buffer): 34-45 hours
-- **Total: 171-226 hours**
-
-**Budget Calculation:**
-- Determine your hourly rate (based on experience, skills)
-- Multiply by estimated hours
-- Compare to indicative budget (Rp 9 juta)
-- Decide: Accept budget / Negotiate / Propose partial delivery
-
-**Timeline Projection:**
-- Full-time (40 hrs/week): 6-7 weeks
-- Part-time (20 hrs/week): 10-12 weeks
-- Freelance (15 hrs/week): 12-15 weeks
-
----
-
-### Step 3: Submit Application (15-20 minutes)
+### Step 2: Submit Application (15-20 minutes)
 
 **Application Form:** [GOOGLE FORM LINK PROVIDED IN JOB POSTING]
 
 **What to prepare:**
 - ✅ Portfolio link (Behance, Dribbble, personal website, Google Drive)
 - ✅ Brief introduction & UI/UX experience (years, specializations)
-- ✅ Budget proposal (breakdown by deliverable, hourly rate, total)
-- ✅ Timeline estimate (start date, weekly availability, completion date)
+- ✅ Timeline estimate (start date, weekly availability, estimated completion)
+- ✅ Rate/pricing information (your standard rates for design work)
 - ✅ Design approach (how would you approach design system creation?)
 - ✅ Case study (1 project you're most proud of, explain your process)
 
 **Pro Tips:**
 - Be honest about experience level (honesty > overpromising)
-- Justify budget if significantly different from indicative (explain why)
 - Mention if you've designed B2B SaaS or dashboards before
 - Express interest in long-term collaboration (not just one-off project)
+- Review all documentation before applying for informed proposal
 
 ---
 
-### Step 4: Wait for Interview Invite (2-3 business days)
+### Step 3: Wait for Interview Invite (2-3 business days)
 
 **Our Review Process:**
 1. Portfolio review (visual quality, B2B SaaS experience, design system work)
@@ -191,8 +159,8 @@ Use the framework in **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** to calculate:
 - Portfolio deep-dive (explain your design process for specific projects)
 - Design direction discussion (show competitor screenshots, get your take)
 - Project-specific questions (how would you design for non-tech-savvy Indonesian contractors?)
-- Budget & timeline confirmation (negotiate if needed)
-- Long-term collaboration interest (Phase 2 features, marketing materials, retainer)
+- Timeline & availability confirmation
+- Long-term collaboration interest (Phase 2 features, marketing materials, ongoing work)
 
 ---
 
@@ -220,10 +188,10 @@ Use the framework in **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** to calculate:
 
 **Timeline:** 6-8 weeks full-time / 10-15 weeks part-time
 
-**Budget:** Rp 9,000,000 (indicative for full project)
-- Option A: Project 1 only (15 screens) - Rp 6 juta
-- Option B: Project 2 only (8 screens) - Rp 3 juta
-- Option C: Full platform (23 screens) - Rp 9 juta
+**Project Options:**
+- Option A: Project 1 only (Contractor Dashboard, 15 screens)
+- Option B: Project 2 only (Client Portal, 8 screens)
+- Option C: Full platform (23 screens total)
 
 ---
 
@@ -234,38 +202,12 @@ Use the framework in **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** to calculate:
 We're looking for a **design partner** for PakeAja's long-term journey. If you deliver excellent results on MVP:
 
 ### Future Opportunities:
-- **Phase 2 Features:** CRM, Inventory, Supplier Portal, Mobile App (Rp 15-20 juta)
-- **Marketing Materials:** Landing page redesign, pitch decks, social assets (Rp 8-12 juta)
-- **Icons & Illustrations:** Custom icon set, empty states, onboarding (Rp 8-13 juta)
-- **Monthly Retainer:** Ongoing design support (Rp 4-12 juta/month)
+- **Phase 2 Features:** CRM, Inventory, Supplier Portal, Mobile App
+- **Marketing Materials:** Landing page redesign, pitch decks, social assets
+- **Icons & Illustrations:** Custom icon set, empty states, onboarding
+- **Monthly Retainer:** Ongoing design support as product grows
 
-**Total Potential Value:** Rp 50-100 juta+ over 12-24 months
-
-**Think of MVP as an audition** for long-term partnership. See **[FUTURE_PHASES.md](FUTURE_PHASES.md)** for details.
-
----
-
-## Budget Transparency
-
-### Why Rp 9 juta for 23 screens?
-
-**Our Calculation:**
-- Estimated hours: 160-180 hours (experienced designer, efficient workflow)
-- Target rate: Rp 50,000-60,000/hour (mid-level Indonesian designer)
-- Total: 170 hours × Rp 53,000/hour ≈ **Rp 9,000,000**
-
-**This assumes:**
-- Designer has B2B SaaS experience (no learning curve)
-- Designer has created design systems before (reusable templates)
-- Designer works efficiently (not first complex project)
-- Minimal revision rounds (clear requirements provided)
-
-**If your estimate is different:**
-- ✅ **Higher (Rp 11-15 juta):** Justify in proposal (senior rate, extra hours for complexity)
-- ✅ **Accept Rp 9 juta:** Position for long-term partnership (competitive Phase 1 → stable income Phase 2+)
-- ✅ **Propose partial delivery:** "I can do Project 1 for Rp 6 juta, then reassess for Project 2"
-
-**We value honesty > underbidding.** Realistic estimates preferred over overpromising.
+**Think of MVP as an audition** for long-term partnership. See **[FUTURE_PHASES.md](FUTURE_PHASES.md)** for detailed scope of future work.
 
 ---
 
@@ -378,17 +320,17 @@ But if scope changes significantly:
 ### Step 1: Review This Repo (you're doing it now! ✅)
 
 **Minimum reading:**
-- PROJECT_OVERVIEW.md → PRD.md → USER_PERSONAS.md → DESIGN_BRIEF.md → SCOPE.md → DESIGN_COMPLEXITY.md → HOW_TO_PROPOSE.md
+- PROJECT_OVERVIEW.md → PRD.md → USER_PERSONAS.md → DESIGN_BRIEF.md → SCOPE.md → DESIGN_COMPLEXITY.md
 
 ---
 
-### Step 2: Calculate Your Budget & Timeline
+### Step 2: Prepare Your Proposal
 
-Use **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** framework:
-1. Break down effort by deliverable (wireframes, mockups, design system, prototypes)
-2. Apply your hourly rate
-3. Calculate total budget
-4. Project timeline based on your availability
+Based on the scope documentation:
+1. Review deliverables breakdown (wireframes, mockups, design system, prototypes)
+2. Estimate timeline based on your availability
+3. Prepare your standard rates and approach
+4. Think about design direction and methodology
 
 ---
 
@@ -399,8 +341,8 @@ Use **[HOW_TO_PROPOSE.md](HOW_TO_PROPOSE.md)** framework:
 **Include:**
 - Portfolio link (public access, no login required)
 - Brief introduction (experience, specialization)
-- Budget proposal (breakdown, justification)
-- Timeline estimate (start date, weekly hours, completion)
+- Rate information (your standard design rates)
+- Timeline estimate (start date, weekly hours, estimated completion)
 - Design approach (how would you tackle this project?)
 - Case study (1 proud project, explain your process)
 
@@ -421,7 +363,7 @@ All files in root directory (flat structure):
 
 ```
 ├── README.md                      ← You are here
-├── PROJECT_OVERVIEW.md            ← Business context
+├── PROJECT_OVERVIEW.md            ← Problem, solution, target users
 ├── PRD.md                         ← Product requirements
 ├── USER_PERSONAS.md               ← 6 detailed personas
 ├── INFORMATION_ARCHITECTURE.md    ← Navigation structure
@@ -429,12 +371,11 @@ All files in root directory (flat structure):
 ├── DESIGN_BRIEF.md                ← Design guidelines
 ├── SCOPE.md                       ← Deliverables breakdown
 ├── DESIGN_COMPLEXITY.md           ← Complexity analysis
-├── HOW_TO_PROPOSE.md              ← Budget/timeline guide
 ├── FUTURE_PHASES.md               ← Long-term opportunities
 └── DATABASE_SCHEMA.md             ← Technical reference (optional)
 ```
 
-**Total:** 12 documentation files
+**Total:** 11 documentation files
 
 ---
 
