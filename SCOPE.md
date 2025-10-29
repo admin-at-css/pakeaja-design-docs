@@ -1,5 +1,15 @@
 # PakeAja - Design Scope & Deliverables
 
+---
+
+**📚 Documentation Journey** | Step 3 of 8
+
+[Project Overview](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → [**→ Scope**](SCOPE.md) → [Design Complexity](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+
+**[← Previous: User Personas](USER_PERSONAS.md)**
+
+---
+
 ## MVP Scope Overview
 
 Dokumen ini menguraikan complete design deliverables untuk PakeAja MVP (Minimum Viable Product).
@@ -221,6 +231,12 @@ Gunakan checklist ini untuk ensure semua deliverables complete:
 - [ ] Mobile prototype included
 - [ ] Presentation mode tested dan working
 - [ ] Ready untuk stakeholder review
+
+---
+
+## ➡️ Continue Reading
+
+**[Next: Design Complexity →](DESIGN_COMPLEXITY.md)**
 
 ---
 

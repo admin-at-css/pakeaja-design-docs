@@ -1,5 +1,15 @@
 # Design Complexity Analysis
 
+---
+
+**📚 Documentation Journey** | Step 4 of 8
+
+[Project Overview](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → [Scope](SCOPE.md) → [**→ Design Complexity**](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+
+**[← Previous: Scope](SCOPE.md)**
+
+---
+
 ## Why This Project is NOT a Simple Landing Page
 
 Banyak UI/UX designers experienced dengan landing pages, marketing websites, atau simple consumer apps. **PakeAja is significantly more complex** karena nature dari B2B SaaS platforms dan two-sided marketplace dynamics.
@@ -303,6 +313,12 @@ Untuk successfully deliver this project, designers should have:
 - Being transparent about learning curve di proposal Anda
 
 **Honesty > Overpromising.** Kami value realistic estimates over underbidding dan underdelivering.
+
+---
+
+## ➡️ Continue Reading
+
+**[Next: User Flows →](USER_FLOWS.md)**
 
 ---
 

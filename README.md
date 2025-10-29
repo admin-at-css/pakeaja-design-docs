@@ -12,6 +12,8 @@
 
 **Harap review semua documentation di bawah ini sebelum submit application.**
 
+**📖 [Start Guided Documentation Tour →](PROJECT_OVERVIEW.md)**
+
 ---
 
 ## Project Overview

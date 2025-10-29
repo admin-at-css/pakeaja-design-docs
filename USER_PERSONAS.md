@@ -1,8 +1,16 @@
-# User Personas
-# PakeAja: Manajemen Proyek & Portal Client
+# User Personas - PakeAja
 
-**Versi:** 1.0
-**Tanggal:** 28 Oktober 2025
+---
+
+**📚 Documentation Journey** | Step 2 of 8
+
+[Project Overview](PROJECT_OVERVIEW.md) → [**→ User Personas**](USER_PERSONAS.md) → [Scope](SCOPE.md) → [Design Complexity](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+
+**[← Previous: Project Overview](PROJECT_OVERVIEW.md)**
+
+---
+
+**Versi:** 1.0 | **Tanggal:** 28 Oktober 2025
 
 ---
 
@@ -443,4 +451,8 @@ Personas ini based on user research dan interview dengan calon pengguna.
 
 **These personas are living documents.** Update them as we learn more from actual users during beta testing.
 
-**Next:** Interview real users (contractors & project owners) untuk validate these personas.
+---
+
+## ➡️ Continue Reading
+
+**[Next: Scope →](SCOPE.md)**

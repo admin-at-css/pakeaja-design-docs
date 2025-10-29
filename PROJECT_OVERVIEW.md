@@ -1,5 +1,13 @@
 # PakeAja - Project Overview
 
+---
+
+**📚 Documentation Journey** | Step 1 of 8
+
+[**→ Project Overview**](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → [Scope](SCOPE.md) → [Design Complexity](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+
+---
+
 ## What is PakeAja?
 
 PakeAja adalah **B2B SaaS platform** yang dirancang untuk membantu perusahaan kontraktor pengecatan mengelola proyek skala besar secara lebih profesional dan transparan. Platform ini menyediakan dashboard lengkap untuk kontraktor dan client portal untuk project owners.
@@ -146,15 +154,9 @@ Design Anda harus help clients:
 
 ---
 
-## Next Steps for Designers
+## ➡️ Continue Reading
 
-Setelah understanding the problem, solution, dan users:
-
-1. **Review detailed personas** → [USER_PERSONAS.md](USER_PERSONAS.md)
-2. **Understand information architecture** → [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md)
-3. **Study user flows** → [USER_FLOWS.md](USER_FLOWS.md)
-4. **Read design guidelines** → [DESIGN_BRIEF.md](DESIGN_BRIEF.md)
-5. **Check deliverables scope** → [SCOPE.md](SCOPE.md)
+**[Next: User Personas →](USER_PERSONAS.md)**
 
 ---
 

@@ -1,7 +1,16 @@
 # User Flows (Alur Pengguna)
 
-**Last Updated:** October 29, 2025
-**Status:** Brainstorming Phase
+---
+
+**📚 Documentation Journey** | Step 5 of 8
+
+[Project Overview](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → [Scope](SCOPE.md) → [Design Complexity](DESIGN_COMPLEXITY.md) → [**→ User Flows**](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+
+**[← Previous: Design Complexity](DESIGN_COMPLEXITY.md)**
+
+---
+
+**Last Updated:** October 29, 2025 | **Status:** Brainstorming Phase
 
 ---
 
@@ -567,5 +576,11 @@ Dokumen ini memetakan user journeys utama untuk kontraktor (primary users) dan p
 - **Notifications:** Key touchpoints where email/SMS/push notifications should be sent
 - **Offline support:** Flow 15 shows importance of queue mechanism for unreliable connectivity
 - **Two-way communication:** Flows 5, 10, 11 demonstrate transparency building trust
+
+---
+
+## ➡️ Continue Reading
+
+**[Next: Information Architecture →](INFORMATION_ARCHITECTURE.md)**
 
 ---

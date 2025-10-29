@@ -1,8 +1,16 @@
-# Information Architecture
-# PakeAja: Manajemen Proyek & Portal Client
+# Information Architecture - PakeAja
 
-**Versi:** 1.0
-**Tanggal:** 28 Oktober 2025
+---
+
+**📚 Documentation Journey** | Step 6 of 8
+
+[Project Overview](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → [Scope](SCOPE.md) → [Design Complexity](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [**→ Information Architecture**](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+
+**[← Previous: User Flows](USER_FLOWS.md)**
+
+---
+
+**Versi:** 1.0 | **Tanggal:** 28 Oktober 2025
 **Untuk:** UI/UX Designer & Development Team
 
 ---
@@ -657,3 +665,9 @@ Refer to `UI-UX-Design-Brief.md` untuk design specs lengkap.
 2. Validate flows dengan user personas
 3. Iterate based on feedback
 4. Move to high-fidelity mockups
+
+---
+
+## ➡️ Continue Reading
+
+**[Next: Design Brief →](DESIGN_BRIEF.md)**
