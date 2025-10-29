@@ -120,7 +120,7 @@ Anda akan design di **Figma only** - no coding required.
 
 ### Step 2: Submit Application (15-20 menit)
 
-**Application Form:** [GOOGLE FORM LINK PROVIDED IN JOB POSTING]
+**Application Form:** https://forms.gle/7tZRm69iqestsrKr9
 
 **Yang perlu Anda prepare:**
 - ✅ Portfolio link (Behance, Dribbble, personal website, Google Drive)
@@ -333,7 +333,7 @@ Berdasarkan scope documentation:
 
 ### Step 3: Submit Google Form
 
-**Application form:** [LINK PROVIDED IN JOB POSTING - FastWork atau direct email]
+**Application form:** https://forms.gle/7tZRm69iqestsrKr9
 
 **Include:**
 - Portfolio link (public access, no login required)
