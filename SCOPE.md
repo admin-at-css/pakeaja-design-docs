@@ -4,7 +4,7 @@
 
 **📚 Documentation Journey** | Step 3 of 8
 
-[Project Overview](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → **→ Scope** → [Design Complexity](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
+[Project Overview](PROJECT_OVERVIEW.md) → [User Personas](USER_PERSONAS.md) → **Scope** → [Design Complexity](DESIGN_COMPLEXITY.md) → [User Flows](USER_FLOWS.md) → [Information Architecture](INFORMATION_ARCHITECTURE.md) → [Design Brief](DESIGN_BRIEF.md) → [PRD](PRD.md)
 
 **[← Previous: User Personas](USER_PERSONAS.md)**
 
