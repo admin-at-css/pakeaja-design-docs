@@ -38,9 +38,6 @@ Repository ini berisi **semua design requirements dan context** yang Anda butuhk
 
 Ini adalah **design documentation**, bukan implementation details. Yang berikut ini **excluded**:
 
-- ❌ Development environment setup (React, Next.js, Supabase)
-- ❌ API credentials atau database access
-- ❌ Backend implementation details
 - ❌ Existing branding assets (Anda punya full creative freedom)
 - ❌ User testing results (kami akan lakukan ini post-design)
 
@@ -272,13 +269,13 @@ Lihat **[DESIGN_BRIEF.md](DESIGN_BRIEF.md)** untuk aesthetic references yang kam
 
 ### Q: Apakah saya work directly dengan founder atau team?
 
-**A:** Directly dengan Kevin (founder).
+**A:** Directly dengan founder.
 
 **Working style:**
 - Weekly Google Meet check-ins (30-60 menit)
-- Async communication via email (respond dalam 24 jam)
+- Async communication (respond dalam 24 jam)
 - Milestone-based deliveries (review di end of each phase)
-- Figma collaboration (Kevin akan comment directly di Figma)
+- Figma collaboration (direct comments di Figma)
 
 **No bureaucracy.** Fast decisions, direct feedback.
 
@@ -353,7 +350,7 @@ Berdasarkan scope documentation:
 Kami akan review applications dalam 2-3 business days dan contact shortlisted candidates via email.
 
 **Questions sebelum apply?**
-Email: [INSERT EMAIL] atau message via FastWork platform.
+Message via platform yang Anda gunakan untuk apply atau open a GitHub issue.
 
 ---
 
@@ -398,15 +395,6 @@ Semua files di root directory (flat structure):
 
 ## Important Notes
 
-### This repository is PUBLIC
-
-Semua documentation di sini public untuk transparency. Internal development repo adalah PRIVATE.
-
-**What's public:** Design requirements, product specs, user flows
-**What's private:** Backend code, database credentials, API keys
-
----
-
 ### Intellectual Property
 
 By applying dan accepting the project:
@@ -423,8 +411,7 @@ By applying dan accepting the project:
 
 **Untuk questions tentang documentation ini:**
 - Open a GitHub issue (jika Anda punya GitHub account)
-- Email: [INSERT EMAIL]
-- Message via FastWork platform (jika apply di sana)
+- Message via platform yang Anda gunakan untuk apply (FastWork, Sribu, atau direct contact)
 
 **Response time:** Dalam 24-48 jam (business days)
 
@@ -435,4 +422,3 @@ By applying dan accepting the project:
 ---
 
 *Last Updated: October 29, 2025*
-*Repository maintained by: Kevin Zakaria (PakeAja Founder)*
