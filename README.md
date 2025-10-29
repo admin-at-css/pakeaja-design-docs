@@ -4,6 +4,16 @@
 
 ---
 
+## 🚀 How to Apply
+
+**Job Posting:** https://jobboard.fastwork.id/jobs/ad3adbd8-03e0-476d-a4ba-159c0135cde0
+
+**Application Form:** https://forms.gle/7tZRm69iqestsrKr9
+
+**Harap review semua documentation di bawah ini sebelum submit application.**
+
+---
+
 ## Project Overview
 
 PakeAja adalah **B2B SaaS platform** untuk perusahaan kontraktor pengecatan Indonesia yang mengelola proyek skala besar. Platform ini membantu kontraktor bertransisi dari manajemen proyek berbasis WhatsApp ke digital workflows yang profesional dan transparan.
